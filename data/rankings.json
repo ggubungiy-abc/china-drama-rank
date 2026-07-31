@@ -1,0 +1,1693 @@
+{
+  "updatedAt": "2026-08-01T07:56:22+09:00",
+  "checkedAt": "2026-08-01T07:56:22+09:00",
+  "year": "2026",
+  "status": "ok",
+  "failedSources": [],
+  "source": "douban",
+  "genres": [
+    {
+      "id": "hyundai",
+      "label": "현대극·현실주의"
+    },
+    {
+      "id": "yeoksa",
+      "label": "역사극"
+    },
+    {
+      "id": "romance",
+      "label": "로맨스"
+    },
+    {
+      "id": "muhyeop",
+      "label": "무협·고장극"
+    },
+    {
+      "id": "suspense",
+      "label": "서스펜스·추리"
+    }
+  ],
+  "items": [
+    {
+      "id": "36317421",
+      "titleCn": "太平年",
+      "titleKr": "타이핑녠",
+      "url": "https://movie.douban.com/subject/36317421/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926587194.jpg",
+      "genres": [
+        "hyundai",
+        "yeoksa"
+      ],
+      "popularityScore": 1,
+      "rating": 8.6,
+      "qualityRank": 1,
+      "popularityRank": 1,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35424715",
+      "titleCn": "生命树",
+      "titleKr": "성밍수",
+      "url": "https://movie.douban.com/subject/35424715/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929427616.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 1,
+      "rating": 8.4,
+      "qualityRank": 2,
+      "popularityRank": 2,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35517044",
+      "titleCn": "低智商犯罪",
+      "titleKr": "디즈상판쭈이",
+      "url": "https://movie.douban.com/subject/35517044/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932040107.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 2,
+      "rating": 8.2,
+      "qualityRank": 3,
+      "popularityRank": 6,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35295564",
+      "titleCn": "主角",
+      "titleKr": "주줴",
+      "url": "https://movie.douban.com/subject/35295564/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932204747.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 6,
+      "rating": 8.1,
+      "qualityRank": 4,
+      "popularityRank": 24,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36866390",
+      "titleCn": "危险关系",
+      "titleKr": "웨이셴관시",
+      "url": "https://movie.douban.com/subject/36866390/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931068376.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 9,
+      "rating": 7.9,
+      "qualityRank": 5,
+      "popularityRank": 39,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37070283",
+      "titleCn": "正义女神",
+      "titleKr": "정이뉘선",
+      "url": "https://movie.douban.com/subject/37070283/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2930670896.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": null,
+      "rating": 7.9,
+      "qualityRank": 6,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36624136",
+      "titleCn": "悬案",
+      "titleKr": "쉬안안",
+      "url": "https://movie.douban.com/subject/36624136/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933759962.jpg",
+      "genres": [
+        "hyundai",
+        "suspense"
+      ],
+      "popularityScore": 7,
+      "rating": 7.5,
+      "qualityRank": 7,
+      "popularityRank": 29,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36675848",
+      "titleCn": "问心2",
+      "titleKr": "원신2",
+      "url": "https://movie.douban.com/subject/36675848/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933401946.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": null,
+      "rating": 7.5,
+      "qualityRank": 8,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36722339",
+      "titleCn": "夜色正浓",
+      "titleKr": "예써정농",
+      "url": "https://movie.douban.com/subject/36722339/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2929668751.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": null,
+      "rating": 7.5,
+      "qualityRank": 9,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35805716",
+      "titleCn": "家事法庭",
+      "titleKr": "자스파팅",
+      "url": "https://movie.douban.com/subject/35805716/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930951512.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 12,
+      "rating": 7.4,
+      "qualityRank": 10,
+      "popularityRank": 52,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38365129",
+      "titleCn": "画梦录",
+      "titleKr": "화멍루",
+      "url": "https://movie.douban.com/subject/38365129/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933788215.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 9,
+      "rating": 7.4,
+      "qualityRank": 11,
+      "popularityRank": 40,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37317021",
+      "titleCn": "灵魂摆渡·十年",
+      "titleKr": "링훈바이두·스녠",
+      "url": "https://movie.douban.com/subject/37317021/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932896043.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 8,
+      "rating": 7.4,
+      "qualityRank": 12,
+      "popularityRank": 34,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36883114",
+      "titleCn": "家业",
+      "titleKr": "자예",
+      "url": "https://movie.douban.com/subject/36883114/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2932320661.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 5,
+      "rating": 7.3,
+      "qualityRank": 13,
+      "popularityRank": 19,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36566053",
+      "titleCn": "除恶",
+      "titleKr": "추어",
+      "url": "https://movie.douban.com/subject/36566053/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2930022669.jpg",
+      "genres": [
+        "hyundai",
+        "suspense"
+      ],
+      "popularityScore": 3,
+      "rating": 7.3,
+      "qualityRank": 14,
+      "popularityRank": 11,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35943650",
+      "titleCn": "纯真年代的爱情",
+      "titleKr": "춘전녠다이더아이칭",
+      "url": "https://movie.douban.com/subject/35943650/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2930085518.jpg",
+      "genres": [
+        "hyundai",
+        "romance"
+      ],
+      "popularityScore": 7,
+      "rating": 7.3,
+      "qualityRank": 15,
+      "popularityRank": 30,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37196710",
+      "titleCn": "九号秘事之黑帷背后",
+      "titleKr": "주하오미스즈헤이웨이베이허우",
+      "url": "https://movie.douban.com/subject/37196710/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929405412.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 10,
+      "rating": 7.3,
+      "qualityRank": 16,
+      "popularityRank": 44,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36923544",
+      "titleCn": "女神蒙上眼",
+      "titleKr": "뉘선멍상옌",
+      "url": "https://movie.douban.com/subject/36923544/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2929281861.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": null,
+      "rating": 7.2,
+      "qualityRank": 17,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36514978",
+      "titleCn": "成何体统",
+      "titleKr": "청허티통",
+      "url": "https://movie.douban.com/subject/36514978/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929508444.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 3,
+      "rating": 7.2,
+      "qualityRank": 18,
+      "popularityRank": 12,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36126294",
+      "titleCn": "小城大事",
+      "titleKr": "샤오청다스",
+      "url": "https://movie.douban.com/subject/36126294/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928791237.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 7,
+      "rating": 7.1,
+      "qualityRank": 19,
+      "popularityRank": 31,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35922594",
+      "titleCn": "黑夜告白",
+      "titleKr": "헤이예가오바이",
+      "url": "https://movie.douban.com/subject/35922594/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931782015.jpg",
+      "genres": [
+        "hyundai",
+        "suspense"
+      ],
+      "popularityScore": 2,
+      "rating": 7.0,
+      "qualityRank": 20,
+      "popularityRank": 7,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36310054",
+      "titleCn": "雨霖铃",
+      "titleKr": "위린링",
+      "url": "https://movie.douban.com/subject/36310054/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932378070.jpg",
+      "genres": [
+        "hyundai",
+        "muhyeop"
+      ],
+      "popularityScore": 1,
+      "rating": 7.0,
+      "qualityRank": 21,
+      "popularityRank": 3,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36513446",
+      "titleCn": "钢铁森林",
+      "titleKr": "강톄썬린",
+      "url": "https://movie.douban.com/subject/36513446/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931233535.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": null,
+      "rating": 7.0,
+      "qualityRank": 22,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37060833",
+      "titleCn": "年少有为",
+      "titleKr": "녠사오유웨이",
+      "url": "https://movie.douban.com/subject/37060833/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926584025.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": null,
+      "rating": 7.0,
+      "qualityRank": 23,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35897502",
+      "titleCn": "你是迟来的欢喜",
+      "titleKr": "니스츠라이더환시",
+      "url": "https://movie.douban.com/subject/35897502/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931183916.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 18,
+      "rating": 7.0,
+      "qualityRank": 24,
+      "popularityRank": 78,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36618951",
+      "titleCn": "野狗骨头",
+      "titleKr": "예거우구터우",
+      "url": "https://movie.douban.com/subject/36618951/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933763712.jpg",
+      "genres": [
+        "hyundai",
+        "romance"
+      ],
+      "popularityScore": 5,
+      "rating": 6.9,
+      "qualityRank": 25,
+      "popularityRank": 20,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35633767",
+      "titleCn": "佳偶天成",
+      "titleKr": "자어우톈청",
+      "url": "https://movie.douban.com/subject/35633767/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931715776.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 11,
+      "rating": 6.9,
+      "qualityRank": 26,
+      "popularityRank": 48,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38461167",
+      "titleCn": "极速营救",
+      "titleKr": "지쑤잉주",
+      "url": "https://movie.douban.com/subject/38461167/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932597604.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": null,
+      "rating": 6.9,
+      "qualityRank": 27,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36466246",
+      "titleCn": "灿如繁星",
+      "titleKr": "찬루판싱",
+      "url": "https://movie.douban.com/subject/36466246/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2929908271.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 15,
+      "rating": 6.8,
+      "qualityRank": 28,
+      "popularityRank": 64,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37004561",
+      "titleCn": "有罪之身",
+      "titleKr": "유쭈이즈선",
+      "url": "https://movie.douban.com/subject/37004561/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928944535.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 17,
+      "rating": 6.8,
+      "qualityRank": 29,
+      "popularityRank": 73,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37247570",
+      "titleCn": "京城奇探",
+      "titleKr": "징청치탄",
+      "url": "https://movie.douban.com/subject/37247570/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933693263.jpg",
+      "genres": [
+        "yeoksa",
+        "suspense"
+      ],
+      "popularityScore": 4,
+      "rating": 6.8,
+      "qualityRank": 30,
+      "popularityRank": 15,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35321975",
+      "titleCn": "爱情没有神话",
+      "titleKr": "아이칭메이유선화",
+      "url": "https://movie.douban.com/subject/35321975/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931959124.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 15,
+      "rating": 6.8,
+      "qualityRank": 31,
+      "popularityRank": 65,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36415590",
+      "titleCn": "唐宫奇案之青雾风鸣",
+      "titleKr": "탕공치안즈칭우펑밍",
+      "url": "https://movie.douban.com/subject/36415590/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929534370.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 1,
+      "rating": 6.8,
+      "qualityRank": 32,
+      "popularityRank": 4,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36449912",
+      "titleCn": "隐身的名字",
+      "titleKr": "인선더밍쯔",
+      "url": "https://movie.douban.com/subject/36449912/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2930870340.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 5,
+      "rating": 6.8,
+      "qualityRank": 33,
+      "popularityRank": 21,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35929169",
+      "titleCn": "白日提灯",
+      "titleKr": "바이르티덩",
+      "url": "https://movie.douban.com/subject/35929169/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931083850.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 8,
+      "rating": 6.7,
+      "qualityRank": 34,
+      "popularityRank": 35,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37317368",
+      "titleCn": "雀骨",
+      "titleKr": "췌구",
+      "url": "https://movie.douban.com/subject/37317368/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931739796.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 6,
+      "rating": 6.7,
+      "qualityRank": 35,
+      "popularityRank": 25,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37066824",
+      "titleCn": "你好1983",
+      "titleKr": "니하오1983",
+      "url": "https://movie.douban.com/subject/37066824/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931005230.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 10,
+      "rating": 6.7,
+      "qualityRank": 36,
+      "popularityRank": 45,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36352600",
+      "titleCn": "暗恋者的救赎",
+      "titleKr": "안롄저더주수",
+      "url": "https://movie.douban.com/subject/36352600/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929170623.jpg",
+      "genres": [
+        "romance",
+        "suspense"
+      ],
+      "popularityScore": 11,
+      "rating": 6.7,
+      "qualityRank": 37,
+      "popularityRank": 49,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37296285",
+      "titleCn": "双姝美探",
+      "titleKr": "솽수메이탄",
+      "url": "https://movie.douban.com/subject/37296285/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929782082.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": null,
+      "rating": 6.7,
+      "qualityRank": 38,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36782155",
+      "titleCn": "岁月有情时",
+      "titleKr": "쑤이웨유칭스",
+      "url": "https://movie.douban.com/subject/36782155/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929910712.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 3,
+      "rating": 6.6,
+      "qualityRank": 39,
+      "popularityRank": 13,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35452068",
+      "titleCn": "爱情有烟火",
+      "titleKr": "아이칭유옌훠",
+      "url": "https://movie.douban.com/subject/35452068/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930509432.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 4,
+      "rating": 6.6,
+      "qualityRank": 40,
+      "popularityRank": 16,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35465012",
+      "titleCn": "南部档案",
+      "titleKr": "난부당안",
+      "url": "https://movie.douban.com/subject/35465012/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915779333.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 13,
+      "rating": 6.5,
+      "qualityRank": 41,
+      "popularityRank": 57,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36554061",
+      "titleCn": "逐玉",
+      "titleKr": "주위",
+      "url": "https://movie.douban.com/subject/36554061/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920718637.jpg",
+      "genres": [
+        "hyundai",
+        "romance"
+      ],
+      "popularityScore": 1,
+      "rating": 6.4,
+      "qualityRank": 42,
+      "popularityRank": 5,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "33371937",
+      "titleCn": "八千里路云和月",
+      "titleKr": "바첸리루윈허웨",
+      "url": "https://movie.douban.com/subject/33371937/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931609328.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 2,
+      "rating": 6.4,
+      "qualityRank": 43,
+      "popularityRank": 8,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37527054",
+      "titleCn": "炽热吸引",
+      "titleKr": "츠러시인",
+      "url": "https://movie.douban.com/subject/37527054/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929145317.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": null,
+      "rating": 6.4,
+      "qualityRank": 44,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37434368",
+      "titleCn": "在你眉梢种红豆",
+      "titleKr": "짜이니메이사오종홍더우",
+      "url": "https://movie.douban.com/subject/37434368/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930076571.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": null,
+      "rating": 6.4,
+      "qualityRank": 45,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36093334",
+      "titleCn": "金关",
+      "titleKr": "진관",
+      "url": "https://movie.douban.com/subject/36093334/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931557934.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 15,
+      "rating": 6.4,
+      "qualityRank": 46,
+      "popularityRank": 66,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35496641",
+      "titleCn": "风过留痕",
+      "titleKr": "펑궈류헌",
+      "url": "https://movie.douban.com/subject/35496641/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929737337.jpg",
+      "genres": [
+        "hyundai",
+        "suspense"
+      ],
+      "popularityScore": 4,
+      "rating": 6.3,
+      "qualityRank": 47,
+      "popularityRank": 17,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37234503",
+      "titleCn": "莫离",
+      "titleKr": "모리",
+      "url": "https://movie.douban.com/subject/37234503/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932891615.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 2,
+      "rating": 6.3,
+      "qualityRank": 48,
+      "popularityRank": 9,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35653016",
+      "titleCn": "玫瑰丛生",
+      "titleKr": "메이구이총성",
+      "url": "https://movie.douban.com/subject/35653016/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930046432.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 16,
+      "rating": 6.2,
+      "qualityRank": 49,
+      "popularityRank": 69,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37938110",
+      "titleCn": "糟糕，和闺蜜一起穿书后把反派玩儿坏了",
+      "titleKr": "짜오가오，허구이미이치촨수허우바판파이완얼화이러",
+      "url": "https://movie.douban.com/subject/37938110/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931041804.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": null,
+      "rating": 6.1,
+      "qualityRank": 50,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36889962",
+      "titleCn": "百花杀",
+      "titleKr": "바이화사",
+      "url": "https://movie.douban.com/subject/36889962/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933518622.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 14,
+      "rating": 6.0,
+      "qualityRank": 51,
+      "popularityRank": 61,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36686460",
+      "titleCn": "突然的喜欢",
+      "titleKr": "투란더시환",
+      "url": "https://movie.douban.com/subject/36686460/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929148255.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 20,
+      "rating": 6.0,
+      "qualityRank": 52,
+      "popularityRank": 86,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37112008",
+      "titleCn": "耀眼",
+      "titleKr": "야오옌",
+      "url": "https://movie.douban.com/subject/37112008/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932733740.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 9,
+      "rating": 5.9,
+      "qualityRank": 53,
+      "popularityRank": 41,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37284831",
+      "titleCn": "重案解密",
+      "titleKr": "종안제미",
+      "url": "https://movie.douban.com/subject/37284831/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931595430.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 12,
+      "rating": 5.9,
+      "qualityRank": 54,
+      "popularityRank": 53,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35633152",
+      "titleCn": "千香",
+      "titleKr": "첸샹",
+      "url": "https://movie.douban.com/subject/35633152/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2933571800.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 13,
+      "rating": 5.8,
+      "qualityRank": 55,
+      "popularityRank": 58,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37296314",
+      "titleCn": "大唐迷雾",
+      "titleKr": "다탕미우",
+      "url": "https://movie.douban.com/subject/37296314/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932621647.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 16,
+      "rating": 5.8,
+      "qualityRank": 56,
+      "popularityRank": 70,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36640236",
+      "titleCn": "月鳞绮纪",
+      "titleKr": "웨린치지",
+      "url": "https://movie.douban.com/subject/36640236/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931176978.jpg",
+      "genres": [
+        "hyundai",
+        "romance"
+      ],
+      "popularityScore": 8,
+      "rating": 5.4,
+      "qualityRank": 57,
+      "popularityRank": 36,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36455098",
+      "titleCn": "御赐小仵作2",
+      "titleKr": "위츠샤오우쭤2",
+      "url": "https://movie.douban.com/subject/36455098/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922875867.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 6,
+      "rating": 5.4,
+      "qualityRank": 58,
+      "popularityRank": 26,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36457187",
+      "titleCn": "叵测",
+      "titleKr": "포처",
+      "url": "https://movie.douban.com/subject/36457187/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931176159.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 14,
+      "rating": 5.3,
+      "qualityRank": 59,
+      "popularityRank": 62,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36449637",
+      "titleCn": "蜜语纪",
+      "titleKr": "미위지",
+      "url": "https://movie.douban.com/subject/36449637/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922745863.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 17,
+      "rating": 5.2,
+      "qualityRank": 60,
+      "popularityRank": 74,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37096230",
+      "titleCn": "这一秒过火",
+      "titleKr": "저이먀오궈훠",
+      "url": "https://movie.douban.com/subject/37096230/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929907615.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 12,
+      "rating": 5.0,
+      "qualityRank": 61,
+      "popularityRank": 54,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "36884141",
+      "titleCn": "炽夏",
+      "titleKr": "츠샤",
+      "url": "https://movie.douban.com/subject/36884141/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926577405.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 19,
+      "rating": 4.7,
+      "qualityRank": 62,
+      "popularityRank": 82,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35633857",
+      "titleCn": "江海潮生",
+      "titleKr": "장하이차오성",
+      "url": "https://movie.douban.com/subject/35633857/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934239953.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 9,
+      "rating": null,
+      "popularityRank": 42,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "35937225",
+      "titleCn": "九个弹孔",
+      "titleKr": "주거단콩",
+      "url": "https://movie.douban.com/subject/35937225/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 10,
+      "rating": null,
+      "popularityRank": 46,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38187549",
+      "titleCn": "冒姓琅琊2",
+      "titleKr": "마오싱랑야2",
+      "url": "https://movie.douban.com/subject/38187549/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2930835130.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 6,
+      "rating": null,
+      "popularityRank": 27,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38242967",
+      "titleCn": "冒姓琅琊3",
+      "titleKr": "마오싱랑야3",
+      "url": "https://movie.douban.com/subject/38242967/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931809667.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 8,
+      "rating": null,
+      "popularityRank": 37,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "4922839",
+      "titleCn": "刘三姐",
+      "titleKr": "류싼제",
+      "url": "https://movie.douban.com/subject/4922839/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931077246.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 12,
+      "rating": null,
+      "popularityRank": 55,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37317465",
+      "titleCn": "马背摇篮",
+      "titleKr": "마베이야오란",
+      "url": "https://movie.douban.com/subject/37317465/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 7,
+      "rating": null,
+      "popularityRank": 32,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38481652",
+      "titleCn": "皇上今天废后吗",
+      "titleKr": "황상진톈페이허우마",
+      "url": "https://movie.douban.com/subject/38481652/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932598344.jpg",
+      "genres": [
+        "yeoksa",
+        "muhyeop"
+      ],
+      "popularityScore": 10,
+      "rating": null,
+      "popularityRank": 47,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38393455",
+      "titleCn": "我在大明那些年2：永乐篇上",
+      "titleKr": "워짜이다밍나셰녠2：융러폔상",
+      "url": "https://movie.douban.com/subject/38393455/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930987742.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 13,
+      "rating": null,
+      "popularityRank": 59,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38364954",
+      "titleCn": "乘风游",
+      "titleKr": "청펑유",
+      "url": "https://movie.douban.com/subject/38364954/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930629291.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 5,
+      "rating": null,
+      "popularityRank": 22,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "33379740",
+      "titleCn": "人民的选择",
+      "titleKr": "런민더쉬안쩌",
+      "url": "https://movie.douban.com/subject/33379740/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 11,
+      "rating": null,
+      "popularityRank": 50,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38190902",
+      "titleCn": "武则天传奇",
+      "titleKr": "우쩌톈촨치",
+      "url": "https://movie.douban.com/subject/38190902/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932387615.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 15,
+      "rating": null,
+      "popularityRank": 67,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "25982445",
+      "titleCn": "特别输送",
+      "titleKr": "터볘수쏭",
+      "url": "https://movie.douban.com/subject/25982445/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2199584431.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 16,
+      "rating": null,
+      "popularityRank": 71,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38480914",
+      "titleCn": "大明第一纨绔",
+      "titleKr": "다밍디이완쿠",
+      "url": "https://movie.douban.com/subject/38480914/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932570820.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 87,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38422956",
+      "titleCn": "大宋孤勇者（下）",
+      "titleKr": "다쏭구융저（샤）",
+      "url": "https://movie.douban.com/subject/38422956/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931566700.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38398872",
+      "titleCn": "大宋孤勇者（上）",
+      "titleKr": "다쏭구융저（상）",
+      "url": "https://movie.douban.com/subject/38398872/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931251124.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "26413902",
+      "titleCn": "一统三国",
+      "titleKr": "이통싼궈",
+      "url": "https://movie.douban.com/subject/26413902/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2296015790.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 17,
+      "rating": null,
+      "popularityRank": 75,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38187907",
+      "titleCn": "大明秘史第一季",
+      "titleKr": "다밍미스디이지",
+      "url": "https://movie.douban.com/subject/38187907/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928738219.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 18,
+      "rating": null,
+      "popularityRank": 79,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "26682293",
+      "titleCn": "民族记忆",
+      "titleKr": "민쭈지이",
+      "url": "https://movie.douban.com/subject/26682293/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2524740853.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 19,
+      "rating": null,
+      "popularityRank": 83,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37125647",
+      "titleCn": "少侠逆袭攻略",
+      "titleKr": "사오샤니시공뤠",
+      "url": "https://movie.douban.com/subject/37125647/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933927992.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 4,
+      "rating": null,
+      "popularityRank": 18,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37014529",
+      "titleCn": "人间惊鸿客",
+      "titleKr": "런젠징홍커",
+      "url": "https://movie.douban.com/subject/37014529/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931924883.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 2,
+      "rating": null,
+      "popularityRank": 10,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38383286",
+      "titleCn": "剑归",
+      "titleKr": "젠구이",
+      "url": "https://movie.douban.com/subject/38383286/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2931728011.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 9,
+      "rating": null,
+      "popularityRank": 43,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38231759",
+      "titleCn": "行道者之墨狂刀",
+      "titleKr": "항다오저즈모쾅다오",
+      "url": "https://movie.douban.com/subject/38231759/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929517723.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 7,
+      "rating": null,
+      "popularityRank": 33,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38481804",
+      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
+      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
+      "url": "https://movie.douban.com/subject/38481804/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 14,
+      "rating": null,
+      "popularityRank": 63,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38574810",
+      "titleCn": "忘川花未央",
+      "titleKr": "왕촨화웨이양",
+      "url": "https://movie.douban.com/subject/38574810/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2934462919.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 18,
+      "rating": null,
+      "popularityRank": 80,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37938060",
+      "titleCn": "烟雨江湖",
+      "titleKr": "옌위장후",
+      "url": "https://movie.douban.com/subject/37938060/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929056287.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 11,
+      "rating": null,
+      "popularityRank": 51,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38222827",
+      "titleCn": "开局签到荒古圣体",
+      "titleKr": "카이쥐첸다오황구성티",
+      "url": "https://movie.douban.com/subject/38222827/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929349747.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 12,
+      "rating": null,
+      "popularityRank": 56,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37529635",
+      "titleCn": "仙剑三·生情",
+      "titleKr": "셴젠싼·성칭",
+      "url": "https://movie.douban.com/subject/37529635/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928836850.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 3,
+      "rating": null,
+      "popularityRank": 14,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38215992",
+      "titleCn": "少年歌行之天下无双",
+      "titleKr": "사오녠거싱즈톈샤우솽",
+      "url": "https://movie.douban.com/subject/38215992/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929240640.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 5,
+      "rating": null,
+      "popularityRank": 23,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "27169969",
+      "titleCn": "新神雕侠侣",
+      "titleKr": "신선댜오샤뤼",
+      "url": "https://movie.douban.com/subject/27169969/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2514871721.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 6,
+      "rating": null,
+      "popularityRank": 28,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37897150",
+      "titleCn": "青瑶不想当杀手",
+      "titleKr": "칭야오부샹당사서우",
+      "url": "https://movie.douban.com/subject/37897150/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929144974.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 8,
+      "rating": null,
+      "popularityRank": 38,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "3008787",
+      "titleCn": "英雄志",
+      "titleKr": "잉슝즈",
+      "url": "https://movie.douban.com/subject/3008787/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898859314.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 13,
+      "rating": null,
+      "popularityRank": 60,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38384949",
+      "titleCn": "通天偷听我心声，洪荒全乱了",
+      "titleKr": "통톈터우팅워신성，홍황취안롼러",
+      "url": "https://movie.douban.com/subject/38384949/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930815272.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 15,
+      "rating": null,
+      "popularityRank": 68,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38186886",
+      "titleCn": "不死暴君：重掌天下从踏碎龙椅开始",
+      "titleKr": "부쓰바오쥔：종장톈샤총타쑤이롱이카이스",
+      "url": "https://movie.douban.com/subject/38186886/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928734425.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 16,
+      "rating": null,
+      "popularityRank": 72,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38212155",
+      "titleCn": "无名江湖",
+      "titleKr": "우밍장후",
+      "url": "https://movie.douban.com/subject/38212155/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929458230.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 17,
+      "rating": null,
+      "popularityRank": 76,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38510117",
+      "titleCn": "魔主沉浮！开局骗女帝下界",
+      "titleKr": "모주천푸！카이쥐폔뉘디샤제",
+      "url": "https://movie.douban.com/subject/38510117/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933156145.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 19,
+      "rating": null,
+      "popularityRank": 84,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "38424234",
+      "titleCn": "榆仙",
+      "titleKr": "위셴",
+      "url": "https://movie.douban.com/subject/38424234/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931593105.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 88,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37260267",
+      "titleCn": "春日之地",
+      "titleKr": "춘르즈디",
+      "url": "https://movie.douban.com/subject/37260267/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931763198.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 17,
+      "rating": null,
+      "popularityRank": 77,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37660537",
+      "titleCn": "逆时追捕",
+      "titleKr": "니스주이부",
+      "url": "https://movie.douban.com/subject/37660537/",
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2933756530.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37332770",
+      "titleCn": "暗处",
+      "titleKr": "안추",
+      "url": "https://movie.douban.com/subject/37332770/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929157384.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 18,
+      "rating": null,
+      "popularityRank": 81,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37134728",
+      "titleCn": "被隐匿的真相",
+      "titleKr": "베이인니더전샹",
+      "url": "https://movie.douban.com/subject/37134728/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929532187.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 19,
+      "rating": null,
+      "popularityRank": 85,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "37645175",
+      "titleCn": "她的罪名",
+      "titleKr": "타더쭈이밍",
+      "url": "https://movie.douban.com/subject/37645175/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931851985.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 89,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    }
+  ]
+}
