@@ -1,0 +1,56 @@
+name: Update rankings
+
+on:
+  schedule:
+    # 매일 06:00 (한국 시간) = 21:00 UTC
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-rankings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 저장소 가져오기
+        uses: actions/checkout@v4
+
+      - name: 파이썬 준비
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 순위 수집
+        id: fetch
+        continue-on-error: true
+        run: python scripts/fetch_rankings.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- data; then
+            echo "변경된 내용이 없어 커밋을 건너뜁니다."
+            exit 0
+          fi
+
+          git add data
+          git commit -m "데이터 갱신"
+          git push
+
+      - name: 수집 실패 시 경고 남기기
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "::warning::순위 수집에 실패했습니다. 직전 데이터가 그대로 유지됩니다."
