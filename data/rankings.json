@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-01T07:56:22+09:00",
-  "checkedAt": "2026-08-01T07:56:22+09:00",
+  "updatedAt": "2026-08-01T08:22:01+09:00",
+  "checkedAt": "2026-08-01T08:22:01+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -42,8 +42,8 @@
       "rating": 8.6,
       "qualityRank": 1,
       "popularityRank": 1,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35424715",
@@ -58,8 +58,8 @@
       "rating": 8.4,
       "qualityRank": 2,
       "popularityRank": 2,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35517044",
@@ -74,8 +74,8 @@
       "rating": 8.2,
       "qualityRank": 3,
       "popularityRank": 6,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35295564",
@@ -90,8 +90,8 @@
       "rating": 8.1,
       "qualityRank": 4,
       "popularityRank": 24,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36866390",
@@ -106,8 +106,8 @@
       "rating": 7.9,
       "qualityRank": 5,
       "popularityRank": 39,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37070283",
@@ -122,8 +122,8 @@
       "rating": 7.9,
       "qualityRank": 6,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "36624136",
@@ -139,8 +139,8 @@
       "rating": 7.5,
       "qualityRank": 7,
       "popularityRank": 29,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36675848",
@@ -155,8 +155,8 @@
       "rating": 7.5,
       "qualityRank": 8,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "36722339",
@@ -171,8 +171,8 @@
       "rating": 7.5,
       "qualityRank": 9,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "35805716",
@@ -187,8 +187,8 @@
       "rating": 7.4,
       "qualityRank": 10,
       "popularityRank": 52,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "38365129",
@@ -203,8 +203,8 @@
       "rating": 7.4,
       "qualityRank": 11,
       "popularityRank": 40,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37317021",
@@ -219,8 +219,8 @@
       "rating": 7.4,
       "qualityRank": 12,
       "popularityRank": 34,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36883114",
@@ -235,8 +235,8 @@
       "rating": 7.3,
       "qualityRank": 13,
       "popularityRank": 19,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36566053",
@@ -252,8 +252,8 @@
       "rating": 7.3,
       "qualityRank": 14,
       "popularityRank": 11,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35943650",
@@ -269,8 +269,8 @@
       "rating": 7.3,
       "qualityRank": 15,
       "popularityRank": 30,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37196710",
@@ -285,8 +285,8 @@
       "rating": 7.3,
       "qualityRank": 16,
       "popularityRank": 44,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36923544",
@@ -301,8 +301,8 @@
       "rating": 7.2,
       "qualityRank": 17,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "36514978",
@@ -317,8 +317,8 @@
       "rating": 7.2,
       "qualityRank": 18,
       "popularityRank": 12,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36126294",
@@ -333,8 +333,8 @@
       "rating": 7.1,
       "qualityRank": 19,
       "popularityRank": 31,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35922594",
@@ -350,8 +350,8 @@
       "rating": 7.0,
       "qualityRank": 20,
       "popularityRank": 7,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36310054",
@@ -367,8 +367,8 @@
       "rating": 7.0,
       "qualityRank": 21,
       "popularityRank": 3,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36513446",
@@ -383,8 +383,8 @@
       "rating": 7.0,
       "qualityRank": 22,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "37060833",
@@ -399,8 +399,8 @@
       "rating": 7.0,
       "qualityRank": 23,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "35897502",
@@ -415,8 +415,8 @@
       "rating": 7.0,
       "qualityRank": 24,
       "popularityRank": 78,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36618951",
@@ -432,8 +432,8 @@
       "rating": 6.9,
       "qualityRank": 25,
       "popularityRank": 20,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35633767",
@@ -448,8 +448,8 @@
       "rating": 6.9,
       "qualityRank": 26,
       "popularityRank": 48,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "38461167",
@@ -464,8 +464,8 @@
       "rating": 6.9,
       "qualityRank": 27,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "36466246",
@@ -480,8 +480,8 @@
       "rating": 6.8,
       "qualityRank": 28,
       "popularityRank": 64,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37004561",
@@ -496,8 +496,8 @@
       "rating": 6.8,
       "qualityRank": 29,
       "popularityRank": 73,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37247570",
@@ -513,8 +513,8 @@
       "rating": 6.8,
       "qualityRank": 30,
       "popularityRank": 15,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35321975",
@@ -529,8 +529,8 @@
       "rating": 6.8,
       "qualityRank": 31,
       "popularityRank": 65,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36415590",
@@ -545,8 +545,8 @@
       "rating": 6.8,
       "qualityRank": 32,
       "popularityRank": 4,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36449912",
@@ -561,8 +561,8 @@
       "rating": 6.8,
       "qualityRank": 33,
       "popularityRank": 21,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35929169",
@@ -577,8 +577,8 @@
       "rating": 6.7,
       "qualityRank": 34,
       "popularityRank": 35,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37317368",
@@ -593,8 +593,8 @@
       "rating": 6.7,
       "qualityRank": 35,
       "popularityRank": 25,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37066824",
@@ -609,8 +609,8 @@
       "rating": 6.7,
       "qualityRank": 36,
       "popularityRank": 45,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36352600",
@@ -626,8 +626,8 @@
       "rating": 6.7,
       "qualityRank": 37,
       "popularityRank": 49,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37296285",
@@ -642,8 +642,8 @@
       "rating": 6.7,
       "qualityRank": 38,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "36782155",
@@ -658,8 +658,8 @@
       "rating": 6.6,
       "qualityRank": 39,
       "popularityRank": 13,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35452068",
@@ -674,8 +674,8 @@
       "rating": 6.6,
       "qualityRank": 40,
       "popularityRank": 16,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35465012",
@@ -690,8 +690,8 @@
       "rating": 6.5,
       "qualityRank": 41,
       "popularityRank": 57,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36554061",
@@ -707,8 +707,8 @@
       "rating": 6.4,
       "qualityRank": 42,
       "popularityRank": 5,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "33371937",
@@ -723,8 +723,8 @@
       "rating": 6.4,
       "qualityRank": 43,
       "popularityRank": 8,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37527054",
@@ -739,8 +739,8 @@
       "rating": 6.4,
       "qualityRank": 44,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "37434368",
@@ -755,8 +755,8 @@
       "rating": 6.4,
       "qualityRank": 45,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "36093334",
@@ -771,8 +771,8 @@
       "rating": 6.4,
       "qualityRank": 46,
       "popularityRank": 66,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35496641",
@@ -788,8 +788,8 @@
       "rating": 6.3,
       "qualityRank": 47,
       "popularityRank": 17,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37234503",
@@ -804,8 +804,8 @@
       "rating": 6.3,
       "qualityRank": 48,
       "popularityRank": 9,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35653016",
@@ -820,8 +820,8 @@
       "rating": 6.2,
       "qualityRank": 49,
       "popularityRank": 69,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37938110",
@@ -836,8 +836,8 @@
       "rating": 6.1,
       "qualityRank": 50,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": null
     },
     {
       "id": "36889962",
@@ -852,8 +852,8 @@
       "rating": 6.0,
       "qualityRank": 51,
       "popularityRank": 61,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36686460",
@@ -868,8 +868,8 @@
       "rating": 6.0,
       "qualityRank": 52,
       "popularityRank": 86,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37112008",
@@ -884,8 +884,8 @@
       "rating": 5.9,
       "qualityRank": 53,
       "popularityRank": 41,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37284831",
@@ -900,8 +900,8 @@
       "rating": 5.9,
       "qualityRank": 54,
       "popularityRank": 53,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35633152",
@@ -916,8 +916,8 @@
       "rating": 5.8,
       "qualityRank": 55,
       "popularityRank": 58,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37296314",
@@ -932,8 +932,8 @@
       "rating": 5.8,
       "qualityRank": 56,
       "popularityRank": 70,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36640236",
@@ -949,8 +949,8 @@
       "rating": 5.4,
       "qualityRank": 57,
       "popularityRank": 36,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36455098",
@@ -965,8 +965,8 @@
       "rating": 5.4,
       "qualityRank": 58,
       "popularityRank": 26,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36457187",
@@ -981,8 +981,8 @@
       "rating": 5.3,
       "qualityRank": 59,
       "popularityRank": 62,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36449637",
@@ -997,8 +997,8 @@
       "rating": 5.2,
       "qualityRank": 60,
       "popularityRank": 74,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "37096230",
@@ -1013,8 +1013,8 @@
       "rating": 5.0,
       "qualityRank": 61,
       "popularityRank": 54,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36884141",
@@ -1029,8 +1029,8 @@
       "rating": 4.7,
       "qualityRank": 62,
       "popularityRank": 82,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "35633857",
@@ -1045,8 +1045,8 @@
       "rating": null,
       "popularityRank": 42,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "35937225",
@@ -1061,8 +1061,8 @@
       "rating": null,
       "popularityRank": 46,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38187549",
@@ -1077,8 +1077,8 @@
       "rating": null,
       "popularityRank": 27,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38242967",
@@ -1093,8 +1093,8 @@
       "rating": null,
       "popularityRank": 37,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "4922839",
@@ -1109,8 +1109,8 @@
       "rating": null,
       "popularityRank": 55,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37317465",
@@ -1125,8 +1125,8 @@
       "rating": null,
       "popularityRank": 32,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38481652",
@@ -1142,8 +1142,8 @@
       "rating": null,
       "popularityRank": 47,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38393455",
@@ -1158,8 +1158,8 @@
       "rating": null,
       "popularityRank": 59,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38364954",
@@ -1174,8 +1174,8 @@
       "rating": null,
       "popularityRank": 22,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "33379740",
@@ -1190,8 +1190,8 @@
       "rating": null,
       "popularityRank": 50,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38190902",
@@ -1206,8 +1206,8 @@
       "rating": null,
       "popularityRank": 67,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "25982445",
@@ -1222,8 +1222,8 @@
       "rating": null,
       "popularityRank": 71,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38480914",
@@ -1238,8 +1238,8 @@
       "rating": null,
       "popularityRank": 87,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38422956",
@@ -1254,8 +1254,8 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "38398872",
@@ -1270,8 +1270,8 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "26413902",
@@ -1286,8 +1286,8 @@
       "rating": null,
       "popularityRank": 75,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38187907",
@@ -1302,8 +1302,8 @@
       "rating": null,
       "popularityRank": 79,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "26682293",
@@ -1318,8 +1318,8 @@
       "rating": null,
       "popularityRank": 83,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37125647",
@@ -1334,8 +1334,8 @@
       "rating": null,
       "popularityRank": 18,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37014529",
@@ -1350,8 +1350,8 @@
       "rating": null,
       "popularityRank": 10,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38383286",
@@ -1366,8 +1366,8 @@
       "rating": null,
       "popularityRank": 43,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38231759",
@@ -1382,8 +1382,8 @@
       "rating": null,
       "popularityRank": 33,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38481804",
@@ -1398,8 +1398,8 @@
       "rating": null,
       "popularityRank": 63,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38574810",
@@ -1414,8 +1414,8 @@
       "rating": null,
       "popularityRank": 80,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37938060",
@@ -1430,8 +1430,8 @@
       "rating": null,
       "popularityRank": 51,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38222827",
@@ -1446,8 +1446,8 @@
       "rating": null,
       "popularityRank": 56,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37529635",
@@ -1462,8 +1462,8 @@
       "rating": null,
       "popularityRank": 14,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38215992",
@@ -1478,8 +1478,8 @@
       "rating": null,
       "popularityRank": 23,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "27169969",
@@ -1494,8 +1494,8 @@
       "rating": null,
       "popularityRank": 28,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37897150",
@@ -1510,8 +1510,8 @@
       "rating": null,
       "popularityRank": 38,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "3008787",
@@ -1526,8 +1526,8 @@
       "rating": null,
       "popularityRank": 60,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38384949",
@@ -1542,8 +1542,8 @@
       "rating": null,
       "popularityRank": 68,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38186886",
@@ -1558,8 +1558,8 @@
       "rating": null,
       "popularityRank": 72,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38212155",
@@ -1574,8 +1574,8 @@
       "rating": null,
       "popularityRank": 76,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38510117",
@@ -1590,8 +1590,8 @@
       "rating": null,
       "popularityRank": 84,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38424234",
@@ -1606,8 +1606,8 @@
       "rating": null,
       "popularityRank": 88,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37260267",
@@ -1622,8 +1622,8 @@
       "rating": null,
       "popularityRank": 77,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37660537",
@@ -1638,8 +1638,8 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "37332770",
@@ -1654,8 +1654,8 @@
       "rating": null,
       "popularityRank": 81,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37134728",
@@ -1670,8 +1670,8 @@
       "rating": null,
       "popularityRank": 85,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "37645175",
@@ -1686,8 +1686,8 @@
       "rating": null,
       "popularityRank": 89,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     }
   ]
 }
