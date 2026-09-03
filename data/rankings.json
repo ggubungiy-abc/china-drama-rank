@@ -1,8 +1,8 @@
 {
   "updatedAt": "2026-09-03T08:08:01+09:00",
-  "checkedAt": "2026-09-03T08:08:01+09:00",
+  "checkedAt": "2026-09-04T08:04:43+09:00",
   "year": "2026",
-  "status": "ok",
+  "status": "blocked",
   "failedSources": [],
   "source": "douban",
   "genres": [
