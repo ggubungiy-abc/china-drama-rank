@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T07:57:32+09:00",
-  "checkedAt": "2026-10-18T07:57:32+09:00",
+  "updatedAt": "2026-10-19T07:53:07+09:00",
+  "checkedAt": "2026-10-19T07:53:07+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -499,7 +499,7 @@
       "qualityRank": 29,
       "popularityRank": 26,
       "qualityDelta": 0,
-      "popularityDelta": -6
+      "popularityDelta": 0
     },
     {
       "id": "37066824",
@@ -597,7 +597,7 @@
       "qualityRank": 35,
       "popularityRank": 20,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "35321975",
@@ -710,7 +710,7 @@
       "qualityRank": 42,
       "popularityRank": 86,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "36449912",
@@ -759,7 +759,7 @@
       "qualityRank": 45,
       "popularityRank": 21,
       "qualityDelta": 0,
-      "popularityDelta": 5
+      "popularityDelta": 0
     },
     {
       "id": "35465012",
@@ -1127,8 +1127,8 @@
       "rating": 5.3,
       "qualityRank": 68,
       "popularityRank": 87,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 0,
+      "popularityDelta": 0
     },
     {
       "id": "36449637",
@@ -1143,7 +1143,7 @@
       "rating": 5.2,
       "qualityRank": 69,
       "popularityRank": 83,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -1159,7 +1159,7 @@
       "rating": 5.0,
       "qualityRank": 70,
       "popularityRank": 45,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -1208,7 +1208,7 @@
       "popularityRank": 59,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 4
+      "popularityDelta": 0
     },
     {
       "id": "35633857",
@@ -1259,11 +1259,11 @@
       "popularityDelta": 0
     },
     {
-      "id": "37195444",
-      "titleCn": "染指流年",
-      "titleKr": "란즈류녠",
-      "url": "https://movie.douban.com/subject/37195444/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936101209.jpg",
+      "id": "38446752",
+      "titleCn": "再造宋骨",
+      "titleKr": "짜이짜오쏭구",
+      "url": "https://movie.douban.com/subject/38446752/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932782930.jpg",
       "genres": [
         "yeoksa"
       ],
@@ -1275,11 +1275,11 @@
       "popularityDelta": null
     },
     {
-      "id": "38446752",
-      "titleCn": "再造宋骨",
-      "titleKr": "짜이짜오쏭구",
-      "url": "https://movie.douban.com/subject/38446752/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932782930.jpg",
+      "id": "37195444",
+      "titleCn": "染指流年",
+      "titleKr": "란즈류녠",
+      "url": "https://movie.douban.com/subject/37195444/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936101209.jpg",
       "genres": [
         "yeoksa"
       ],
@@ -1339,17 +1339,17 @@
       "popularityDelta": 0
     },
     {
-      "id": "35937225",
-      "titleCn": "九个弹孔",
-      "titleKr": "주거단콩",
-      "url": "https://movie.douban.com/subject/35937225/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
+      "id": "37317465",
+      "titleCn": "马背摇篮",
+      "titleKr": "마베이야오란",
+      "url": "https://movie.douban.com/subject/37317465/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 12,
+      "popularityScore": 11,
       "rating": null,
-      "popularityRank": 55,
+      "popularityRank": 49,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1367,21 +1367,21 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
-      "id": "37317465",
-      "titleCn": "马背摇篮",
-      "titleKr": "마베이야오란",
-      "url": "https://movie.douban.com/subject/37317465/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
+      "id": "35937225",
+      "titleCn": "九个弹孔",
+      "titleKr": "주거단콩",
+      "url": "https://movie.douban.com/subject/35937225/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 11,
+      "popularityScore": 12,
       "rating": null,
-      "popularityRank": 49,
+      "popularityRank": 55,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1400,7 +1400,7 @@
       "popularityRank": 63,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "38393455",
@@ -1484,11 +1484,11 @@
       "popularityDelta": 0
     },
     {
-      "id": "38187907",
-      "titleCn": "大明秘史第一季",
-      "titleKr": "다밍미스디이지",
-      "url": "https://movie.douban.com/subject/38187907/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928738219.jpg",
+      "id": "26413902",
+      "titleCn": "一统三国",
+      "titleKr": "이통싼궈",
+      "url": "https://movie.douban.com/subject/26413902/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2296015790.jpg",
       "genres": [
         "yeoksa"
       ],
@@ -1496,8 +1496,8 @@
       "rating": null,
       "popularityRank": 88,
       "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "38544860",
@@ -1580,22 +1580,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38646779",
-      "titleCn": "穿越女频开局送皇后白月光进东厂",
-      "titleKr": "촨웨뉘핀카이쥐쏭황허우바이웨광진동창",
-      "url": "https://movie.douban.com/subject/38646779/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935626326.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 19,
-      "rating": null,
-      "popularityRank": 85,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "38231759",
       "titleCn": "行道者之墨狂刀",
       "titleKr": "항다오저즈모쾅다오",
@@ -1612,17 +1596,17 @@
       "popularityDelta": 0
     },
     {
-      "id": "38383286",
-      "titleCn": "剑归",
-      "titleKr": "젠구이",
-      "url": "https://movie.douban.com/subject/38383286/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2931728011.jpg",
+      "id": "38646779",
+      "titleCn": "穿越女频开局送皇后白月光进东厂",
+      "titleKr": "촨웨뉘핀카이쥐쏭황허우바이웨광진동창",
+      "url": "https://movie.douban.com/subject/38646779/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935626326.jpg",
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": 10,
+      "popularityScore": 19,
       "rating": null,
-      "popularityRank": 47,
+      "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1639,6 +1623,22 @@
       "popularityScore": 3,
       "rating": null,
       "popularityRank": 14,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38383286",
+      "titleCn": "剑归",
+      "titleKr": "젠구이",
+      "url": "https://movie.douban.com/subject/38383286/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2931728011.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 10,
+      "rating": null,
+      "popularityRank": 47,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
