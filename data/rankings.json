@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T07:53:07+09:00",
-  "checkedAt": "2026-10-19T07:53:07+09:00",
+  "updatedAt": "2026-10-20T09:09:11+09:00",
+  "checkedAt": "2026-10-20T09:09:11+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -200,12 +200,12 @@
         "hyundai",
         "romance"
       ],
-      "popularityScore": 3,
+      "popularityScore": 2,
       "rating": 7.5,
       "qualityRank": 11,
-      "popularityRank": 12,
+      "popularityRank": 7,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 5
     },
     {
       "id": "36675848",
@@ -481,9 +481,9 @@
       "popularityScore": 2,
       "rating": 7.0,
       "qualityRank": 28,
-      "popularityRank": 7,
+      "popularityRank": 8,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "37317368",
@@ -854,9 +854,9 @@
       "popularityScore": 2,
       "rating": 6.4,
       "qualityRank": 51,
-      "popularityRank": 8,
+      "popularityRank": 9,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "37434368",
@@ -899,12 +899,12 @@
       "genres": [
         "romance"
       ],
-      "popularityScore": 2,
+      "popularityScore": 3,
       "rating": 6.3,
       "qualityRank": 54,
-      "popularityRank": 9,
+      "popularityRank": 12,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -3
     },
     {
       "id": "35496641",
@@ -1115,22 +1115,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "36403345",
-      "titleCn": "天才，女友",
-      "titleKr": "톈차이，뉘유",
-      "url": "https://movie.douban.com/subject/36403345/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2934521281.jpg",
-      "genres": [
-        "romance"
-      ],
-      "popularityScore": 20,
-      "rating": 5.3,
-      "qualityRank": 68,
-      "popularityRank": 87,
-      "qualityDelta": 0,
-      "popularityDelta": 0
-    },
-    {
       "id": "36449637",
       "titleCn": "蜜语纪",
       "titleKr": "미위지",
@@ -1139,12 +1123,12 @@
       "genres": [
         "romance"
       ],
-      "popularityScore": 19,
+      "popularityScore": 20,
       "rating": 5.2,
-      "qualityRank": 69,
-      "popularityRank": 83,
-      "qualityDelta": 0,
-      "popularityDelta": 0
+      "qualityRank": 68,
+      "popularityRank": 87,
+      "qualityDelta": 1,
+      "popularityDelta": -4
     },
     {
       "id": "37096230",
@@ -1157,9 +1141,9 @@
       ],
       "popularityScore": 10,
       "rating": 5.0,
-      "qualityRank": 70,
+      "qualityRank": 69,
       "popularityRank": 45,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
       "popularityDelta": 0
     },
     {
@@ -1275,11 +1259,11 @@
       "popularityDelta": null
     },
     {
-      "id": "37195444",
-      "titleCn": "染指流年",
-      "titleKr": "란즈류녠",
-      "url": "https://movie.douban.com/subject/37195444/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936101209.jpg",
+      "id": "38931886",
+      "titleCn": "永恒：辛追的一生",
+      "titleKr": "융헝：신주이더이성",
+      "url": "https://movie.douban.com/subject/38931886/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936604885.jpg",
       "genres": [
         "yeoksa"
       ],
@@ -1291,11 +1275,11 @@
       "popularityDelta": null
     },
     {
-      "id": "38931886",
-      "titleCn": "永恒：辛追的一生",
-      "titleKr": "융헝：신주이더이성",
-      "url": "https://movie.douban.com/subject/38931886/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936604885.jpg",
+      "id": "37195444",
+      "titleCn": "染指流年",
+      "titleKr": "란즈류녠",
+      "url": "https://movie.douban.com/subject/37195444/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936101209.jpg",
       "genres": [
         "yeoksa"
       ],
@@ -1339,22 +1323,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "37317465",
-      "titleCn": "马背摇篮",
-      "titleKr": "마베이야오란",
-      "url": "https://movie.douban.com/subject/37317465/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 11,
-      "rating": null,
-      "popularityRank": 49,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "38931954",
       "titleCn": "洪武苟长生第二季",
       "titleKr": "홍우거우창성디얼지",
@@ -1371,6 +1339,22 @@
       "popularityDelta": null
     },
     {
+      "id": "37317465",
+      "titleCn": "马背摇篮",
+      "titleKr": "마베이야오란",
+      "url": "https://movie.douban.com/subject/37317465/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 11,
+      "rating": null,
+      "popularityRank": 49,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "35937225",
       "titleCn": "九个弹孔",
       "titleKr": "주거단콩",
@@ -1382,6 +1366,22 @@
       "popularityScore": 12,
       "rating": null,
       "popularityRank": 55,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38364954",
+      "titleCn": "乘风游",
+      "titleKr": "청펑유",
+      "url": "https://movie.douban.com/subject/38364954/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930629291.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 6,
+      "rating": null,
+      "popularityRank": 27,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1414,22 +1414,6 @@
       "popularityScore": 16,
       "rating": null,
       "popularityRank": 72,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "38364954",
-      "titleCn": "乘风游",
-      "titleKr": "청펑유",
-      "url": "https://movie.douban.com/subject/38364954/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930629291.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 6,
-      "rating": null,
-      "popularityRank": 27,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1478,10 +1462,10 @@
       ],
       "popularityScore": 19,
       "rating": null,
-      "popularityRank": 84,
+      "popularityRank": 83,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "26413902",
@@ -1495,6 +1479,22 @@
       "popularityScore": 20,
       "rating": null,
       "popularityRank": 88,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "37191789",
+      "titleCn": "嫁金钗",
+      "titleKr": "자진차이",
+      "url": "https://movie.douban.com/subject/37191789/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936594583.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 19,
+      "rating": null,
+      "popularityRank": 84,
       "qualityRank": null,
       "qualityDelta": "new",
       "popularityDelta": "new"
@@ -1564,22 +1564,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38481804",
-      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
-      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
-      "url": "https://movie.douban.com/subject/38481804/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 11,
-      "rating": null,
-      "popularityRank": 50,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "38231759",
       "titleCn": "行道者之墨狂刀",
       "titleKr": "항다오저즈모쾅다오",
@@ -1591,6 +1575,22 @@
       "popularityScore": 7,
       "rating": null,
       "popularityRank": 33,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38481804",
+      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
+      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
+      "url": "https://movie.douban.com/subject/38481804/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 11,
+      "rating": null,
+      "popularityRank": 50,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
