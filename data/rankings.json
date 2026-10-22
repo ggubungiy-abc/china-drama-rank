@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T08:56:49+09:00",
-  "checkedAt": "2026-10-22T08:56:49+09:00",
+  "updatedAt": "2026-10-23T08:55:43+09:00",
+  "checkedAt": "2026-10-23T08:55:43+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -319,7 +319,7 @@
       "rating": 7.3,
       "qualityRank": 18,
       "popularityRank": 15,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -335,7 +335,7 @@
       "rating": 7.3,
       "qualityRank": 19,
       "popularityRank": 19,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -363,12 +363,12 @@
       "genres": [
         "suspense"
       ],
-      "popularityScore": 10,
+      "popularityScore": 11,
       "rating": 7.3,
       "qualityRank": 21,
-      "popularityRank": 43,
+      "popularityRank": 48,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -5
     },
     {
       "id": "37196710",
@@ -431,9 +431,9 @@
       "popularityScore": 10,
       "rating": 7.2,
       "qualityRank": 25,
-      "popularityRank": 44,
+      "popularityRank": 43,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "36126294",
@@ -502,22 +502,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "37066824",
-      "titleCn": "你好1983",
-      "titleKr": "니하오1983",
-      "url": "https://movie.douban.com/subject/37066824/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931005230.jpg",
-      "genres": [
-        "romance"
-      ],
-      "popularityScore": 15,
-      "rating": 6.9,
-      "qualityRank": 30,
-      "popularityRank": 65,
-      "qualityDelta": 0,
-      "popularityDelta": 0
-    },
-    {
       "id": "35633767",
       "titleCn": "佳偶天成",
       "titleKr": "자어우톈청",
@@ -528,9 +512,25 @@
       ],
       "popularityScore": 14,
       "rating": 6.9,
-      "qualityRank": 31,
+      "qualityRank": 30,
       "popularityRank": 62,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
+      "popularityDelta": 0
+    },
+    {
+      "id": "37066824",
+      "titleCn": "你好1983",
+      "titleKr": "니하오1983",
+      "url": "https://movie.douban.com/subject/37066824/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931005230.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 15,
+      "rating": 6.9,
+      "qualityRank": 31,
+      "popularityRank": 65,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -613,7 +613,7 @@
       "qualityRank": 36,
       "popularityRank": 78,
       "qualityDelta": 0,
-      "popularityDelta": -3
+      "popularityDelta": 0
     },
     {
       "id": "38194327",
@@ -629,7 +629,7 @@
       "qualityRank": 37,
       "popularityRank": 79,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36415590",
@@ -708,9 +708,9 @@
       "popularityScore": 20,
       "rating": 6.7,
       "qualityRank": 42,
-      "popularityRank": 86,
+      "popularityRank": 87,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "36449912",
@@ -1094,9 +1094,9 @@
       "popularityScore": 11,
       "rating": 5.4,
       "qualityRank": 66,
-      "popularityRank": 48,
+      "popularityRank": 49,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "36455098",
@@ -1126,9 +1126,9 @@
       "popularityScore": 20,
       "rating": 5.2,
       "qualityRank": 68,
-      "popularityRank": 87,
+      "popularityRank": 88,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "37096230",
@@ -1142,9 +1142,25 @@
       "popularityScore": 10,
       "rating": 5.0,
       "qualityRank": 69,
-      "popularityRank": 45,
+      "popularityRank": 44,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 1
+    },
+    {
+      "id": "37042229",
+      "titleCn": "醉梦",
+      "titleKr": "쭈이멍",
+      "url": "https://movie.douban.com/subject/37042229/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936594830.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 19,
+      "rating": null,
+      "popularityRank": 84,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "36155236",
@@ -1227,22 +1243,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38242967",
-      "titleCn": "冒姓琅琊3",
-      "titleKr": "마오싱랑야3",
-      "url": "https://movie.douban.com/subject/38242967/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931809667.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 10,
-      "rating": null,
-      "popularityRank": 46,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "38446752",
       "titleCn": "再造宋骨",
       "titleKr": "짜이짜오쏭구",
@@ -1253,10 +1253,26 @@
       ],
       "popularityScore": 20,
       "rating": null,
-      "popularityRank": 88,
+      "popularityRank": 89,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
+    },
+    {
+      "id": "38242967",
+      "titleCn": "冒姓琅琊3",
+      "titleKr": "마오싱랑야3",
+      "url": "https://movie.douban.com/subject/38242967/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931809667.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 10,
+      "rating": null,
+      "popularityRank": 45,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 1
     },
     {
       "id": "38931886",
@@ -1355,6 +1371,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "33379740",
+      "titleCn": "人民的选择",
+      "titleKr": "런민더쉬안쩌",
+      "url": "https://movie.douban.com/subject/33379740/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 14,
+      "rating": null,
+      "popularityRank": 63,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "38364954",
       "titleCn": "乘风游",
       "titleKr": "청펑유",
@@ -1381,26 +1413,10 @@
       ],
       "popularityScore": 11,
       "rating": null,
-      "popularityRank": 49,
+      "popularityRank": 50,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "33379740",
-      "titleCn": "人民的选择",
-      "titleKr": "런민더쉬안쩌",
-      "url": "https://movie.douban.com/subject/33379740/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 14,
-      "rating": null,
-      "popularityRank": 63,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "38393455",
@@ -1449,7 +1465,7 @@
       "popularityRank": 80,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38190902",
@@ -1462,10 +1478,10 @@
       ],
       "popularityScore": 19,
       "rating": null,
-      "popularityRank": 84,
+      "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "37191789",
@@ -1481,7 +1497,7 @@
       "popularityRank": 75,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 5
+      "popularityDelta": 0
     },
     {
       "id": "38544860",
@@ -1516,22 +1532,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38481804",
-      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
-      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
-      "url": "https://movie.douban.com/subject/38481804/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 11,
-      "rating": null,
-      "popularityRank": 50,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "37014529",
       "titleCn": "人间惊鸿客",
       "titleKr": "런젠징홍커",
@@ -1548,6 +1548,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "38481804",
+      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
+      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
+      "url": "https://movie.douban.com/subject/38481804/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 11,
+      "rating": null,
+      "popularityRank": 51,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": -1
+    },
+    {
       "id": "38545516",
       "titleCn": "隐龙卫",
       "titleKr": "인롱웨이",
@@ -1562,22 +1578,6 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
-    },
-    {
-      "id": "37125647",
-      "titleCn": "少侠逆袭攻略",
-      "titleKr": "사오샤니시공뤠",
-      "url": "https://movie.douban.com/subject/37125647/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933927992.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 4,
-      "rating": null,
-      "popularityRank": 18,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
     },
     {
       "id": "38231759",
@@ -1606,10 +1606,42 @@
       ],
       "popularityScore": 19,
       "rating": null,
-      "popularityRank": 85,
+      "popularityRank": 86,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": -1
+    },
+    {
+      "id": "37125647",
+      "titleCn": "少侠逆袭攻略",
+      "titleKr": "사오샤니시공뤠",
+      "url": "https://movie.douban.com/subject/37125647/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933927992.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 4,
+      "rating": null,
+      "popularityRank": 18,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
+    },
+    {
+      "id": "38510117",
+      "titleCn": "魔主沉浮！开局骗女帝下界",
+      "titleKr": "모주천푸！카이쥐폔뉘디샤제",
+      "url": "https://movie.douban.com/subject/38510117/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933156145.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "37529635",
@@ -1686,10 +1718,10 @@
       ],
       "popularityScore": 10,
       "rating": null,
-      "popularityRank": 47,
+      "popularityRank": 46,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "37938060",
@@ -1782,10 +1814,10 @@
       ],
       "popularityScore": 20,
       "rating": null,
-      "popularityRank": 89,
+      "popularityRank": 90,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "36481657",
@@ -1796,12 +1828,12 @@
       "genres": [
         "suspense"
       ],
-      "popularityScore": 11,
+      "popularityScore": 10,
       "rating": null,
-      "popularityRank": 51,
+      "popularityRank": 47,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": 4
     }
   ]
 }
