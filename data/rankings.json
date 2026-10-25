@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T08:00:11+09:00",
-  "checkedAt": "2026-10-25T08:00:11+09:00",
+  "updatedAt": "2026-10-26T08:05:40+09:00",
+  "checkedAt": "2026-10-26T08:05:40+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -107,7 +107,7 @@
       "qualityRank": 5,
       "popularityRank": 57,
       "qualityDelta": 0,
-      "popularityDelta": -5
+      "popularityDelta": 0
     },
     {
       "id": "38545320",
@@ -281,12 +281,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 18,
+      "popularityScore": 19,
       "rating": 7.4,
       "qualityRank": 16,
-      "popularityRank": 77,
+      "popularityRank": 82,
       "qualityDelta": 0,
-      "popularityDelta": -3
+      "popularityDelta": -5
     },
     {
       "id": "37297001",
@@ -334,7 +334,7 @@
       "rating": 7.3,
       "qualityRank": 19,
       "popularityRank": 19,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -351,7 +351,7 @@
       "rating": 7.3,
       "qualityRank": 20,
       "popularityRank": 15,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -400,7 +400,7 @@
       "qualityRank": 23,
       "popularityRank": 62,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36314809",
@@ -432,7 +432,7 @@
       "qualityRank": 25,
       "popularityRank": 49,
       "qualityDelta": 0,
-      "popularityDelta": -6
+      "popularityDelta": 0
     },
     {
       "id": "36576514",
@@ -530,7 +530,7 @@
       "qualityRank": 31,
       "popularityRank": 63,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37066824",
@@ -546,7 +546,7 @@
       "qualityRank": 32,
       "popularityRank": 66,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35897502",
@@ -626,9 +626,9 @@
       "popularityScore": 18,
       "rating": 6.8,
       "qualityRank": 37,
-      "popularityRank": 78,
+      "popularityRank": 77,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 1
     },
     {
       "id": "38194327",
@@ -639,12 +639,12 @@
       "genres": [
         "suspense"
       ],
-      "popularityScore": 18,
+      "popularityScore": 19,
       "rating": 6.8,
       "qualityRank": 38,
-      "popularityRank": 79,
+      "popularityRank": 83,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": -4
     },
     {
       "id": "36415590",
@@ -692,7 +692,7 @@
       "qualityRank": 41,
       "popularityRank": 43,
       "qualityDelta": 0,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "36352600",
@@ -709,7 +709,7 @@
       "qualityRank": 42,
       "popularityRank": 67,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36449912",
@@ -790,7 +790,7 @@
       "qualityRank": 47,
       "popularityRank": 70,
       "qualityDelta": 0,
-      "popularityDelta": -3
+      "popularityDelta": 0
     },
     {
       "id": "36782155",
@@ -965,9 +965,9 @@
       "popularityScore": 19,
       "rating": 6.2,
       "qualityRank": 58,
-      "popularityRank": 82,
+      "popularityRank": 84,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -2
     },
     {
       "id": "37938110",
@@ -999,7 +999,7 @@
       "qualityRank": 60,
       "popularityRank": 58,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37172262",
@@ -1063,7 +1063,7 @@
       "qualityRank": 64,
       "popularityRank": 59,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37284831",
@@ -1079,7 +1079,7 @@
       "qualityRank": 65,
       "popularityRank": 71,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35633152",
@@ -1095,7 +1095,7 @@
       "qualityRank": 66,
       "popularityRank": 72,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36721173",
@@ -1111,7 +1111,7 @@
       "qualityRank": 67,
       "popularityRank": 88,
       "qualityDelta": 0,
-      "popularityDelta": -5
+      "popularityDelta": 0
     },
     {
       "id": "36640236",
@@ -1127,7 +1127,7 @@
       "qualityRank": 68,
       "popularityRank": 50,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36455098",
@@ -1143,7 +1143,7 @@
       "qualityRank": 69,
       "popularityRank": 39,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "36449637",
@@ -1159,7 +1159,7 @@
       "qualityRank": 70,
       "popularityRank": 89,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37096230",
@@ -1191,7 +1191,7 @@
       "popularityRank": 40,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 44
+      "popularityDelta": 0
     },
     {
       "id": "37042229",
@@ -1202,12 +1202,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 19,
+      "popularityScore": 18,
       "rating": null,
-      "popularityRank": 83,
+      "popularityRank": 78,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -4
+      "popularityDelta": 5
     },
     {
       "id": "36155236",
@@ -1255,7 +1255,7 @@
       "popularityRank": 60,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35633857",
@@ -1269,6 +1269,22 @@
       "popularityScore": 8,
       "rating": null,
       "popularityRank": 36,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "33379740",
+      "titleCn": "人民的选择",
+      "titleKr": "런민더쉬안쩌",
+      "url": "https://movie.douban.com/subject/33379740/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 14,
+      "rating": null,
+      "popularityRank": 64,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1303,23 +1319,7 @@
       "popularityRank": 90,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
-    },
-    {
-      "id": "33379740",
-      "titleCn": "人民的选择",
-      "titleKr": "런민더쉬안쩌",
-      "url": "https://movie.douban.com/subject/33379740/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 14,
-      "rating": null,
-      "popularityRank": 64,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38242967",
@@ -1447,7 +1447,7 @@
       "popularityRank": 51,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35937225",
@@ -1479,7 +1479,7 @@
       "popularityRank": 73,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38481652",
@@ -1509,10 +1509,10 @@
       ],
       "popularityScore": 18,
       "rating": null,
-      "popularityRank": 80,
+      "popularityRank": 79,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "38190902",
@@ -1525,10 +1525,10 @@
       ],
       "popularityScore": 19,
       "rating": null,
-      "popularityRank": 84,
+      "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 1
+      "popularityDelta": -1
     },
     {
       "id": "37191789",
@@ -1603,12 +1603,12 @@
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": 11,
+      "popularityScore": 10,
       "rating": null,
-      "popularityRank": 52,
+      "popularityRank": 47,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 5
     },
     {
       "id": "38928736",
@@ -1621,10 +1621,10 @@
       ],
       "popularityScore": 18,
       "rating": null,
-      "popularityRank": 81,
+      "popularityRank": 80,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "37125647",
@@ -1653,10 +1653,10 @@
       ],
       "popularityScore": 19,
       "rating": null,
-      "popularityRank": 85,
+      "popularityRank": 86,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 1
+      "popularityDelta": -1
     },
     {
       "id": "38231759",
@@ -1763,12 +1763,12 @@
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": 10,
+      "popularityScore": 11,
       "rating": null,
-      "popularityRank": 47,
+      "popularityRank": 52,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -5
     },
     {
       "id": "37938060",
@@ -1784,7 +1784,7 @@
       "popularityRank": 61,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "3008787",
@@ -1800,7 +1800,7 @@
       "popularityRank": 65,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38222827",
@@ -1832,7 +1832,7 @@
       "popularityRank": 74,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38186886",
@@ -1864,7 +1864,7 @@
       "popularityRank": 91,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37307385",
@@ -1875,9 +1875,9 @@
       "genres": [
         "suspense"
       ],
-      "popularityScore": 19,
+      "popularityScore": 18,
       "rating": null,
-      "popularityRank": 86,
+      "popularityRank": 81,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 5
