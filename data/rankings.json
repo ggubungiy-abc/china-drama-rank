@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T09:33:58+09:00",
-  "checkedAt": "2026-10-31T09:33:58+09:00",
+  "updatedAt": "2026-11-01T08:58:54+09:00",
+  "checkedAt": "2026-11-01T08:58:54+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -102,12 +102,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 13,
+      "popularityScore": 14,
       "rating": 8.1,
       "qualityRank": 5,
-      "popularityRank": 57,
+      "popularityRank": 62,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -5
     },
     {
       "id": "38545320",
@@ -215,12 +215,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 14,
+      "popularityScore": 12,
       "rating": 7.5,
       "qualityRank": 12,
-      "popularityRank": 62,
+      "popularityRank": 53,
       "qualityDelta": 0,
-      "popularityDelta": 8
+      "popularityDelta": 9
     },
     {
       "id": "36449295",
@@ -267,9 +267,9 @@
       "popularityScore": 12,
       "rating": 7.5,
       "qualityRank": 15,
-      "popularityRank": 53,
+      "popularityRank": 54,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "35943650",
@@ -319,7 +319,7 @@
       "qualityRank": 18,
       "popularityRank": 30,
       "qualityDelta": 0,
-      "popularityDelta": 4
+      "popularityDelta": 0
     },
     {
       "id": "36554071",
@@ -416,7 +416,7 @@
       "qualityRank": 24,
       "popularityRank": 63,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36810153",
@@ -512,9 +512,9 @@
       "popularityScore": 12,
       "rating": 7.0,
       "qualityRank": 30,
-      "popularityRank": 54,
+      "popularityRank": 55,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "37317368",
@@ -562,7 +562,7 @@
       "qualityRank": 33,
       "popularityRank": 67,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35897502",
@@ -595,7 +595,7 @@
       "qualityRank": 35,
       "popularityRank": 31,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36466246",
@@ -628,7 +628,7 @@
       "qualityRank": 37,
       "popularityRank": 20,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35321975",
@@ -741,7 +741,7 @@
       "qualityRank": 44,
       "popularityRank": 34,
       "qualityDelta": 0,
-      "popularityDelta": -3
+      "popularityDelta": 0
     },
     {
       "id": "38245102",
@@ -790,7 +790,7 @@
       "qualityRank": 47,
       "popularityRank": 21,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35465012",
@@ -935,7 +935,7 @@
       "qualityRank": 56,
       "popularityRank": 68,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36481657",
@@ -983,7 +983,7 @@
       "qualityRank": 59,
       "popularityRank": 22,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35653016",
@@ -1079,7 +1079,7 @@
       "qualityRank": 65,
       "popularityRank": 64,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37284831",
@@ -1207,7 +1207,7 @@
       "popularityRank": 18,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 4
+      "popularityDelta": 0
     },
     {
       "id": "36155236",
@@ -1271,7 +1271,7 @@
       "popularityRank": 65,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38187549",
@@ -1306,6 +1306,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "35937225",
+      "titleCn": "九个弹孔",
+      "titleKr": "주거단콩",
+      "url": "https://movie.douban.com/subject/35937225/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 12,
+      "rating": null,
+      "popularityRank": 56,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": -1
+    },
+    {
       "id": "38242967",
       "titleCn": "冒姓琅琊3",
       "titleKr": "마오싱랑야3",
@@ -1322,20 +1338,20 @@
       "popularityDelta": 0
     },
     {
-      "id": "35937225",
-      "titleCn": "九个弹孔",
-      "titleKr": "주거단콩",
-      "url": "https://movie.douban.com/subject/35937225/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
+      "id": "38555098",
+      "titleCn": "真探·一九四九",
+      "titleKr": "전탄·이주쓰주",
+      "url": "https://movie.douban.com/subject/38555098/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937008152.jpg",
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 12,
+      "popularityScore": null,
       "rating": null,
-      "popularityRank": 55,
       "qualityRank": null,
+      "popularityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": null
     },
     {
       "id": "4922839",
@@ -1351,7 +1367,7 @@
       "popularityRank": 69,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38446752",
@@ -1362,28 +1378,12 @@
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 19,
+      "popularityScore": 18,
       "rating": null,
-      "popularityRank": 85,
+      "popularityRank": 80,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 5
-    },
-    {
-      "id": "37317465",
-      "titleCn": "马背摇篮",
-      "titleKr": "마베이야오란",
-      "url": "https://movie.douban.com/subject/37317465/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 11,
-      "rating": null,
-      "popularityRank": 51,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
     },
     {
       "id": "37195444",
@@ -1402,11 +1402,27 @@
       "popularityDelta": null
     },
     {
-      "id": "38555098",
-      "titleCn": "真探·一九四九",
-      "titleKr": "전탄·이주쓰주",
-      "url": "https://movie.douban.com/subject/38555098/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937008152.jpg",
+      "id": "37317465",
+      "titleCn": "马背摇篮",
+      "titleKr": "마베이야오란",
+      "url": "https://movie.douban.com/subject/37317465/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 11,
+      "rating": null,
+      "popularityRank": 51,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "39010382",
+      "titleCn": "诗行万里长征路",
+      "titleKr": "스항완리창정루",
+      "url": "https://movie.douban.com/subject/39010382/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937005989.jpg",
       "genres": [
         "yeoksa"
       ],
@@ -1450,22 +1466,6 @@
       "popularityDelta": null
     },
     {
-      "id": "38931954",
-      "titleCn": "洪武苟长生第二季",
-      "titleKr": "홍우거우창성디얼지",
-      "url": "https://movie.douban.com/subject/38931954/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936605384.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": null
-    },
-    {
       "id": "38393455",
       "titleCn": "我在大明那些年2：永乐篇上",
       "titleKr": "워짜이다밍나셰녠2：융러폔상",
@@ -1493,10 +1493,10 @@
       ],
       "popularityScore": 12,
       "rating": null,
-      "popularityRank": 56,
+      "popularityRank": 57,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "38190902",
@@ -1507,12 +1507,12 @@
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 18,
+      "popularityScore": 19,
       "rating": null,
-      "popularityRank": 80,
+      "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 5
+      "popularityDelta": -5
     },
     {
       "id": "25982445",
@@ -1528,7 +1528,23 @@
       "popularityRank": 90,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -10
+      "popularityDelta": 0
+    },
+    {
+      "id": "37125647",
+      "titleCn": "少侠逆袭攻略",
+      "titleKr": "사오샤니시공뤠",
+      "url": "https://movie.douban.com/subject/37125647/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933927992.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 4,
+      "rating": null,
+      "popularityRank": 19,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38544860",
@@ -1542,22 +1558,6 @@
       "popularityScore": 5,
       "rating": null,
       "popularityRank": 23,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "38481804",
-      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
-      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
-      "url": "https://movie.douban.com/subject/38481804/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 10,
-      "rating": null,
-      "popularityRank": 47,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1579,36 +1579,36 @@
       "popularityDelta": null
     },
     {
-      "id": "37125647",
-      "titleCn": "少侠逆袭攻略",
-      "titleKr": "사오샤니시공뤠",
-      "url": "https://movie.douban.com/subject/37125647/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933927992.jpg",
+      "id": "38481804",
+      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
+      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
+      "url": "https://movie.douban.com/subject/38481804/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": 4,
+      "popularityScore": 10,
       "rating": null,
-      "popularityRank": 19,
+      "popularityRank": 47,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
-      "id": "38545516",
-      "titleCn": "隐龙卫",
-      "titleKr": "인롱웨이",
-      "url": "https://movie.douban.com/subject/38545516/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934078457.jpg",
+      "id": "37014529",
+      "titleCn": "人间惊鸿客",
+      "titleKr": "런젠징홍커",
+      "url": "https://movie.douban.com/subject/37014529/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931924883.jpg",
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": null,
+      "popularityScore": 2,
       "rating": null,
+      "popularityRank": 10,
       "qualityRank": null,
-      "popularityRank": null,
       "qualityDelta": null,
-      "popularityDelta": null
+      "popularityDelta": 0
     },
     {
       "id": "37529635",
@@ -1622,22 +1622,6 @@
       "popularityScore": 3,
       "rating": null,
       "popularityRank": 14,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "37897150",
-      "titleCn": "青瑶不想当杀手",
-      "titleKr": "칭야오부샹당사서우",
-      "url": "https://movie.douban.com/subject/37897150/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929144974.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 9,
-      "rating": null,
-      "popularityRank": 42,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1659,20 +1643,36 @@
       "popularityDelta": 0
     },
     {
-      "id": "37014529",
-      "titleCn": "人间惊鸿客",
-      "titleKr": "런젠징홍커",
-      "url": "https://movie.douban.com/subject/37014529/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931924883.jpg",
+      "id": "37897150",
+      "titleCn": "青瑶不想当杀手",
+      "titleKr": "칭야오부샹당사서우",
+      "url": "https://movie.douban.com/subject/37897150/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929144974.jpg",
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": 2,
+      "popularityScore": 9,
       "rating": null,
-      "popularityRank": 10,
+      "popularityRank": 42,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
+    },
+    {
+      "id": "38545516",
+      "titleCn": "隐龙卫",
+      "titleKr": "인롱웨이",
+      "url": "https://movie.douban.com/subject/38545516/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934078457.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "38231759",
@@ -1723,22 +1723,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38646779",
-      "titleCn": "穿越女频开局送皇后白月光进东厂",
-      "titleKr": "촨웨뉘핀카이쥐쏭황허우바이웨광진동창",
-      "url": "https://movie.douban.com/subject/38646779/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935626326.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 19,
-      "rating": null,
-      "popularityRank": 86,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 5
-    },
-    {
       "id": "38637283",
       "titleCn": "天渊",
       "titleKr": "톈위안",
@@ -1752,7 +1736,23 @@
       "popularityRank": 91,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -5
+      "popularityDelta": 0
+    },
+    {
+      "id": "38574810",
+      "titleCn": "忘川花未央",
+      "titleKr": "왕촨화웨이양",
+      "url": "https://movie.douban.com/subject/38574810/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934462919.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "38510117",
@@ -1769,6 +1769,22 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
+    },
+    {
+      "id": "38529104",
+      "titleCn": "走刀人",
+      "titleKr": "쩌우다오런",
+      "url": "https://movie.douban.com/subject/38529104/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933525856.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "38215992",
@@ -1816,7 +1832,7 @@
       "popularityRank": 66,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38222827",
@@ -1832,7 +1848,7 @@
       "popularityRank": 70,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "38384949",
@@ -1862,6 +1878,22 @@
       "popularityScore": 17,
       "rating": null,
       "popularityRank": 78,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38646779",
+      "titleCn": "穿越女频开局送皇后白月光进东厂",
+      "titleKr": "촨웨뉘핀카이쥐쏭황허우바이웨광진동창",
+      "url": "https://movie.douban.com/subject/38646779/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935626326.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 19,
+      "rating": null,
+      "popularityRank": 86,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
