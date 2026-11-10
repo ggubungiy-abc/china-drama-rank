@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T09:38:20+09:00",
-  "checkedAt": "2026-11-09T09:38:20+09:00",
+  "updatedAt": "2026-11-10T12:18:17+09:00",
+  "checkedAt": "2026-11-10T12:18:17+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -87,12 +87,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 2,
+      "popularityScore": 3,
       "rating": 8.2,
       "qualityRank": 4,
-      "popularityRank": 6,
+      "popularityRank": 11,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -5
     },
     {
       "id": "35295564",
@@ -151,12 +151,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 3,
+      "popularityScore": 2,
       "rating": 8.0,
       "qualityRank": 8,
-      "popularityRank": 11,
+      "popularityRank": 6,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 5
     },
     {
       "id": "37070283",
@@ -253,7 +253,7 @@
       "rating": 7.5,
       "qualityRank": 14,
       "popularityRank": 7,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -269,7 +269,7 @@
       "rating": 7.5,
       "qualityRank": 15,
       "popularityRank": 48,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -547,7 +547,7 @@
       "qualityRank": 32,
       "popularityRank": 27,
       "qualityDelta": 0,
-      "popularityDelta": 4
+      "popularityDelta": 0
     },
     {
       "id": "37317368",
@@ -563,7 +563,7 @@
       "qualityRank": 33,
       "popularityRank": 31,
       "qualityDelta": 0,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "37066824",
@@ -1240,7 +1240,7 @@
       "popularityRank": 73,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 4
+      "popularityDelta": 0
     },
     {
       "id": "38192991",
@@ -1291,6 +1291,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "38242967",
+      "titleCn": "冒姓琅琊3",
+      "titleKr": "마오싱랑야3",
+      "url": "https://movie.douban.com/subject/38242967/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931809667.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 10,
+      "rating": null,
+      "popularityRank": 46,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "35937225",
       "titleCn": "九个弹孔",
       "titleKr": "주거단콩",
@@ -1321,22 +1337,6 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
-    },
-    {
-      "id": "38242967",
-      "titleCn": "冒姓琅琊3",
-      "titleKr": "마오싱랑야3",
-      "url": "https://movie.douban.com/subject/38242967/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931809667.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 10,
-      "rating": null,
-      "popularityRank": 46,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
     },
     {
       "id": "33379740",
@@ -1496,7 +1496,7 @@
       "popularityRank": 77,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "38481652",
@@ -1561,7 +1561,7 @@
       "popularityRank": 90,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": null
+      "popularityDelta": 0
     },
     {
       "id": "37014529",
@@ -1575,22 +1575,6 @@
       "popularityScore": 2,
       "rating": null,
       "popularityRank": 10,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "37125647",
-      "titleCn": "少侠逆袭攻略",
-      "titleKr": "사오샤니시공뤠",
-      "url": "https://movie.douban.com/subject/37125647/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933927992.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 4,
-      "rating": null,
-      "popularityRank": 19,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1612,17 +1596,17 @@
       "popularityDelta": 0
     },
     {
-      "id": "38928736",
-      "titleCn": "将军将我贬妻为妾，圣旨赐下后他慌了",
-      "titleKr": "장쥔장워볜치웨이체，성즈츠샤허우타황러",
-      "url": "https://movie.douban.com/subject/38928736/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2936545541.jpg",
+      "id": "37125647",
+      "titleCn": "少侠逆袭攻略",
+      "titleKr": "사오샤니시공뤠",
+      "url": "https://movie.douban.com/subject/37125647/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933927992.jpg",
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": 17,
+      "popularityScore": 4,
       "rating": null,
-      "popularityRank": 78,
+      "popularityRank": 19,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1644,17 +1628,33 @@
       "popularityDelta": 0
     },
     {
-      "id": "37529635",
-      "titleCn": "仙剑三·生情",
-      "titleKr": "셴젠싼·성칭",
-      "url": "https://movie.douban.com/subject/37529635/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928836850.jpg",
+      "id": "38928736",
+      "titleCn": "将军将我贬妻为妾，圣旨赐下后他慌了",
+      "titleKr": "장쥔장워볜치웨이체，성즈츠샤허우타황러",
+      "url": "https://movie.douban.com/subject/38928736/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2936545541.jpg",
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": 3,
+      "popularityScore": 17,
       "rating": null,
-      "popularityRank": 15,
+      "popularityRank": 78,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38646779",
+      "titleCn": "穿越女频开局送皇后白月光进东厂",
+      "titleKr": "촨웨뉘핀카이쥐쏭황허우바이웨광진동창",
+      "url": "https://movie.douban.com/subject/38646779/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935626326.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 19,
+      "rating": null,
+      "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1674,6 +1674,22 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
+    },
+    {
+      "id": "37529635",
+      "titleCn": "仙剑三·生情",
+      "titleKr": "셴젠싼·성칭",
+      "url": "https://movie.douban.com/subject/37529635/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928836850.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 3,
+      "rating": null,
+      "popularityRank": 15,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38215992",
@@ -1815,22 +1831,6 @@
       "popularityScore": 18,
       "rating": null,
       "popularityRank": 81,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "38646779",
-      "titleCn": "穿越女频开局送皇后白月光进东厂",
-      "titleKr": "촨웨뉘핀카이쥐쏭황허우바이웨광진동창",
-      "url": "https://movie.douban.com/subject/38646779/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935626326.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 19,
-      "rating": null,
-      "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
