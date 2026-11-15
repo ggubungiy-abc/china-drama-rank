@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T10:20:58+09:00",
-  "checkedAt": "2026-11-14T10:20:58+09:00",
+  "updatedAt": "2026-11-15T09:53:33+09:00",
+  "checkedAt": "2026-11-15T09:53:33+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -55,12 +55,12 @@
         "hyundai",
         "yeoksa"
       ],
-      "popularityScore": 5,
+      "popularityScore": 4,
       "rating": 8.6,
       "qualityRank": 2,
-      "popularityRank": 20,
+      "popularityRank": 16,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 4
     },
     {
       "id": "35424715",
@@ -270,7 +270,7 @@
       "qualityRank": 15,
       "popularityRank": 47,
       "qualityDelta": 0,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "36675848",
@@ -302,7 +302,7 @@
       "qualityRank": 17,
       "popularityRank": 52,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "35943650",
@@ -398,9 +398,9 @@
       "popularityScore": 5,
       "rating": 7.3,
       "qualityRank": 23,
-      "popularityRank": 21,
+      "popularityRank": 20,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "36566053",
@@ -414,9 +414,9 @@
       "popularityScore": 4,
       "rating": 7.3,
       "qualityRank": 24,
-      "popularityRank": 16,
+      "popularityRank": 17,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "37317021",
@@ -511,9 +511,9 @@
       "popularityScore": 4,
       "rating": 7.0,
       "qualityRank": 30,
-      "popularityRank": 17,
+      "popularityRank": 18,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "36310054",
@@ -578,7 +578,7 @@
       "rating": 6.9,
       "qualityRank": 34,
       "popularityRank": 68,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -594,7 +594,7 @@
       "rating": 6.9,
       "qualityRank": 35,
       "popularityRank": 71,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -725,7 +725,7 @@
       "qualityRank": 43,
       "popularityRank": 53,
       "qualityDelta": 0,
-      "popularityDelta": -3
+      "popularityDelta": 0
     },
     {
       "id": "37070518",
@@ -850,12 +850,12 @@
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 4,
+      "popularityScore": 5,
       "rating": 6.6,
       "qualityRank": 51,
-      "popularityRank": 18,
+      "popularityRank": 21,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -3
     },
     {
       "id": "35452068",
@@ -935,7 +935,7 @@
       "rating": 6.4,
       "qualityRank": 56,
       "popularityRank": null,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": null
     },
     {
@@ -951,7 +951,7 @@
       "rating": 6.4,
       "qualityRank": 57,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": null
     },
     {
@@ -984,7 +984,7 @@
       "qualityRank": 59,
       "popularityRank": 43,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "37234503",
@@ -1179,22 +1179,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "36403345",
-      "titleCn": "天才，女友",
-      "titleKr": "톈차이，뉘유",
-      "url": "https://movie.douban.com/subject/36403345/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2934521281.jpg",
-      "genres": [
-        "romance"
-      ],
-      "popularityScore": 20,
-      "rating": 5.3,
-      "qualityRank": 72,
-      "popularityRank": 88,
-      "qualityDelta": 0,
-      "popularityDelta": 0
-    },
-    {
       "id": "37096230",
       "titleCn": "这一秒过火",
       "titleKr": "저이먀오궈훠",
@@ -1205,10 +1189,10 @@
       ],
       "popularityScore": 10,
       "rating": 5.0,
-      "qualityRank": 73,
+      "qualityRank": 72,
       "popularityRank": 44,
-      "qualityDelta": 0,
-      "popularityDelta": 1
+      "qualityDelta": 1,
+      "popularityDelta": 0
     },
     {
       "id": "38407550",
@@ -1288,7 +1272,7 @@
       "popularityRank": 45,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "38187549",
@@ -1355,6 +1339,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "38931886",
+      "titleCn": "永恒：辛追的一生",
+      "titleKr": "융헝：신주이더이성",
+      "url": "https://movie.douban.com/subject/38931886/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936604885.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": null
+    },
+    {
       "id": "38555098",
       "titleCn": "真探·一九四九",
       "titleKr": "전탄·이주쓰주",
@@ -1387,22 +1387,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38931886",
-      "titleCn": "永恒：辛追的一生",
-      "titleKr": "융헝：신주이더이성",
-      "url": "https://movie.douban.com/subject/38931886/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936604885.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": null
-    },
-    {
       "id": "38931954",
       "titleCn": "洪武苟长生第二季",
       "titleKr": "홍우거우창성디얼지",
@@ -1419,27 +1403,11 @@
       "popularityDelta": null
     },
     {
-      "id": "38393455",
-      "titleCn": "我在大明那些年2：永乐篇上",
-      "titleKr": "워짜이다밍나셰녠2：융러폔상",
-      "url": "https://movie.douban.com/subject/38393455/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930987742.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 17,
-      "rating": null,
-      "popularityRank": 77,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "37195444",
-      "titleCn": "染指流年",
-      "titleKr": "란즈류녠",
-      "url": "https://movie.douban.com/subject/37195444/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936101209.jpg",
+      "id": "38924571",
+      "titleCn": "伪装者浓雾之下",
+      "titleKr": "웨이좡저농우즈샤",
+      "url": "https://movie.douban.com/subject/38924571/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936505442.jpg",
       "genres": [
         "yeoksa"
       ],
@@ -1447,8 +1415,24 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": null
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
+      "id": "39034318",
+      "titleCn": "成化犁庭第二季：汪直扫穴",
+      "titleKr": "청화리팅디얼지：왕즈싸오쉐",
+      "url": "https://movie.douban.com/subject/39034318/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937381982.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "38364954",
@@ -1480,7 +1464,23 @@
       "popularityRank": 50,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 1
+      "popularityDelta": 0
+    },
+    {
+      "id": "38393455",
+      "titleCn": "我在大明那些年2：永乐篇上",
+      "titleKr": "워짜이다밍나셰녠2：융러폔상",
+      "url": "https://movie.douban.com/subject/38393455/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930987742.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 17,
+      "rating": null,
+      "popularityRank": 77,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38481652",
@@ -1510,10 +1510,26 @@
       ],
       "popularityScore": 20,
       "rating": null,
-      "popularityRank": 89,
+      "popularityRank": 88,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": 1
+    },
+    {
+      "id": "35861007",
+      "titleCn": "尚公主",
+      "titleKr": "상공주",
+      "url": "https://movie.douban.com/subject/35861007/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936873942.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 89,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "38481804",
@@ -1529,7 +1545,7 @@
       "popularityRank": 46,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "39010151",
@@ -1657,7 +1673,7 @@
       "popularityRank": 51,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "39036405",
