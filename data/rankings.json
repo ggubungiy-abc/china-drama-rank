@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T09:53:33+09:00",
-  "checkedAt": "2026-11-15T09:53:33+09:00",
+  "updatedAt": "2026-11-16T09:52:00+09:00",
+  "checkedAt": "2026-11-16T09:52:00+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -60,7 +60,7 @@
       "qualityRank": 2,
       "popularityRank": 16,
       "qualityDelta": 0,
-      "popularityDelta": 4
+      "popularityDelta": 0
     },
     {
       "id": "35424715",
@@ -400,7 +400,7 @@
       "qualityRank": 23,
       "popularityRank": 20,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "36566053",
@@ -416,7 +416,7 @@
       "qualityRank": 24,
       "popularityRank": 17,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37317021",
@@ -513,7 +513,7 @@
       "qualityRank": 30,
       "popularityRank": 18,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36310054",
@@ -566,22 +566,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "35633767",
-      "titleCn": "佳偶天成",
-      "titleKr": "자어우톈청",
-      "url": "https://movie.douban.com/subject/35633767/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931715776.jpg",
-      "genres": [
-        "romance"
-      ],
-      "popularityScore": 15,
-      "rating": 6.9,
-      "qualityRank": 34,
-      "popularityRank": 68,
-      "qualityDelta": 0,
-      "popularityDelta": 0
-    },
-    {
       "id": "37066824",
       "titleCn": "你好1983",
       "titleKr": "니하오1983",
@@ -592,9 +576,25 @@
       ],
       "popularityScore": 16,
       "rating": 6.9,
-      "qualityRank": 35,
+      "qualityRank": 34,
       "popularityRank": 71,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
+      "popularityDelta": 0
+    },
+    {
+      "id": "35633767",
+      "titleCn": "佳偶天成",
+      "titleKr": "자어우톈청",
+      "url": "https://movie.douban.com/subject/35633767/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931715776.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": 15,
+      "rating": 6.9,
+      "qualityRank": 35,
+      "popularityRank": 68,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -855,7 +855,7 @@
       "qualityRank": 51,
       "popularityRank": 21,
       "qualityDelta": 0,
-      "popularityDelta": -3
+      "popularityDelta": 0
     },
     {
       "id": "35452068",
@@ -1191,7 +1191,7 @@
       "rating": 5.0,
       "qualityRank": 72,
       "popularityRank": 44,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -1291,22 +1291,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "35937225",
-      "titleCn": "九个弹孔",
-      "titleKr": "주거단콩",
-      "url": "https://movie.douban.com/subject/35937225/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 12,
-      "rating": null,
-      "popularityRank": 55,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "33379740",
       "titleCn": "人民的选择",
       "titleKr": "런민더쉬안쩌",
@@ -1334,6 +1318,22 @@
       "popularityScore": 19,
       "rating": null,
       "popularityRank": 84,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "35937225",
+      "titleCn": "九个弹孔",
+      "titleKr": "주거단콩",
+      "url": "https://movie.douban.com/subject/35937225/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 12,
+      "rating": null,
+      "popularityRank": 55,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1371,22 +1371,6 @@
       "popularityDelta": null
     },
     {
-      "id": "4922839",
-      "titleCn": "刘三姐",
-      "titleKr": "류싼제",
-      "url": "https://movie.douban.com/subject/4922839/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931077246.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 15,
-      "rating": null,
-      "popularityRank": 69,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "38931954",
       "titleCn": "洪武苟长生第二季",
       "titleKr": "홍우거우창성디얼지",
@@ -1403,6 +1387,22 @@
       "popularityDelta": null
     },
     {
+      "id": "4922839",
+      "titleCn": "刘三姐",
+      "titleKr": "류싼제",
+      "url": "https://movie.douban.com/subject/4922839/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931077246.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 15,
+      "rating": null,
+      "popularityRank": 69,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "38924571",
       "titleCn": "伪装者浓雾之下",
       "titleKr": "웨이좡저농우즈샤",
@@ -1415,8 +1415,8 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "39034318",
@@ -1431,8 +1431,8 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "38364954",
@@ -1513,7 +1513,7 @@
       "popularityRank": 88,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "35861007",
@@ -1528,8 +1528,8 @@
       "rating": null,
       "popularityRank": 89,
       "qualityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38481804",
@@ -1548,22 +1548,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "39010151",
-      "titleCn": "护镖人之无敌镖人，开局护送灭世帝女第九季",
-      "titleKr": "후뱌오런즈우디뱌오런，카이쥐후쏭몌스디뉘디주지",
-      "url": "https://movie.douban.com/subject/39010151/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937005344.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 20,
-      "rating": null,
-      "popularityRank": 90,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "38544860",
       "titleCn": "山竹刀",
       "titleKr": "산주다오",
@@ -1575,6 +1559,22 @@
       "popularityScore": 5,
       "rating": null,
       "popularityRank": 23,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "39010151",
+      "titleCn": "护镖人之无敌镖人，开局护送灭世帝女第九季",
+      "titleKr": "후뱌오런즈우디뱌오런，카이쥐후쏭몌스디뉘디주지",
+      "url": "https://movie.douban.com/subject/39010151/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937005344.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 90,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
