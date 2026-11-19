@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T11:47:24+09:00",
-  "checkedAt": "2026-11-18T11:47:24+09:00",
+  "updatedAt": "2026-11-19T11:23:32+09:00",
+  "checkedAt": "2026-11-19T11:23:32+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -108,7 +108,7 @@
       "qualityRank": 5,
       "popularityRank": 33,
       "qualityDelta": 0,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "36675942",
@@ -135,12 +135,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 14,
+      "popularityScore": 15,
       "rating": 8.1,
       "qualityRank": 7,
-      "popularityRank": 62,
+      "popularityRank": 66,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -4
     },
     {
       "id": "38545320",
@@ -168,12 +168,12 @@
         "hyundai",
         "romance"
       ],
-      "popularityScore": 17,
+      "popularityScore": 13,
       "rating": 8.0,
       "qualityRank": 9,
-      "popularityRank": 75,
-      "qualityDelta": null,
-      "popularityDelta": 9
+      "popularityRank": 57,
+      "qualityDelta": 0,
+      "popularityDelta": 18
     },
     {
       "id": "37070283",
@@ -188,7 +188,7 @@
       "rating": 7.9,
       "qualityRank": 10,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": null
     },
     {
@@ -204,7 +204,7 @@
       "rating": 7.8,
       "qualityRank": 11,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": null
     },
     {
@@ -220,7 +220,7 @@
       "rating": 7.8,
       "qualityRank": 12,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": null
     },
     {
@@ -236,8 +236,25 @@
       "rating": 7.7,
       "qualityRank": 13,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": null
+    },
+    {
+      "id": "36449295",
+      "titleCn": "兰香如故",
+      "titleKr": "란샹루구",
+      "url": "https://movie.douban.com/subject/36449295/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933527614.jpg",
+      "genres": [
+        "hyundai",
+        "romance"
+      ],
+      "popularityScore": 2,
+      "rating": 7.6,
+      "qualityRank": 14,
+      "popularityRank": 7,
+      "qualityDelta": 1,
+      "popularityDelta": 0
     },
     {
       "id": "36624136",
@@ -251,25 +268,8 @@
       ],
       "popularityScore": 3,
       "rating": 7.6,
-      "qualityRank": 14,
-      "popularityRank": 12,
-      "qualityDelta": -1,
-      "popularityDelta": 0
-    },
-    {
-      "id": "36449295",
-      "titleCn": "兰香如故",
-      "titleKr": "란샹루구",
-      "url": "https://movie.douban.com/subject/36449295/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933527614.jpg",
-      "genres": [
-        "hyundai",
-        "romance"
-      ],
-      "popularityScore": 2,
-      "rating": 7.5,
       "qualityRank": 15,
-      "popularityRank": 7,
+      "popularityRank": 12,
       "qualityDelta": -1,
       "popularityDelta": 0
     },
@@ -286,7 +286,7 @@
       "rating": 7.5,
       "qualityRank": 16,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": null
     },
     {
@@ -302,7 +302,7 @@
       "rating": 7.5,
       "qualityRank": 17,
       "popularityRank": 52,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -318,7 +318,7 @@
       "rating": 7.4,
       "qualityRank": 18,
       "popularityRank": 47,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -335,7 +335,7 @@
       "rating": 7.4,
       "qualityRank": 19,
       "popularityRank": 48,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -351,7 +351,7 @@
       "rating": 7.4,
       "qualityRank": 20,
       "popularityRank": 86,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -364,12 +364,12 @@
         "hyundai",
         "suspense"
       ],
-      "popularityScore": 6,
+      "popularityScore": 5,
       "rating": 7.3,
       "qualityRank": 21,
-      "popularityRank": 24,
-      "qualityDelta": -1,
-      "popularityDelta": 0
+      "popularityRank": 20,
+      "qualityDelta": 0,
+      "popularityDelta": 4
     },
     {
       "id": "36883114",
@@ -383,9 +383,9 @@
       "popularityScore": 6,
       "rating": 7.3,
       "qualityRank": 22,
-      "popularityRank": 25,
+      "popularityRank": 24,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "36514978",
@@ -399,9 +399,9 @@
       "popularityScore": 5,
       "rating": 7.3,
       "qualityRank": 23,
-      "popularityRank": 20,
+      "popularityRank": 21,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "36566053",
@@ -463,9 +463,9 @@
       "popularityScore": 13,
       "rating": 7.2,
       "qualityRank": 27,
-      "popularityRank": 57,
+      "popularityRank": 58,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "36126294",
@@ -497,7 +497,7 @@
       "qualityRank": 29,
       "popularityRank": 29,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "36310054",
@@ -547,7 +547,7 @@
       "qualityRank": 32,
       "popularityRank": 30,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "35633767",
@@ -558,12 +558,12 @@
       "genres": [
         "romance"
       ],
-      "popularityScore": 15,
+      "popularityScore": 16,
       "rating": 6.9,
       "qualityRank": 33,
-      "popularityRank": 68,
+      "popularityRank": 71,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -3
     },
     {
       "id": "37066824",
@@ -574,12 +574,12 @@
       "genres": [
         "romance"
       ],
-      "popularityScore": 16,
+      "popularityScore": 17,
       "rating": 6.9,
       "qualityRank": 34,
-      "popularityRank": 71,
+      "popularityRank": 75,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -4
     },
     {
       "id": "35897502",
@@ -614,23 +614,6 @@
       "popularityDelta": null
     },
     {
-      "id": "37191789",
-      "titleCn": "嫁金钗",
-      "titleKr": "자진차이",
-      "url": "https://movie.douban.com/subject/37191789/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936594583.jpg",
-      "genres": [
-        "hyundai",
-        "romance"
-      ],
-      "popularityScore": 4,
-      "rating": 6.8,
-      "qualityRank": 37,
-      "popularityRank": 18,
-      "qualityDelta": 0,
-      "popularityDelta": 0
-    },
-    {
       "id": "36618951",
       "titleCn": "野狗骨头",
       "titleKr": "예거우구터우",
@@ -642,9 +625,9 @@
       ],
       "popularityScore": 8,
       "rating": 6.8,
-      "qualityRank": 38,
+      "qualityRank": 37,
       "popularityRank": 34,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
       "popularityDelta": 0
     },
     {
@@ -659,10 +642,10 @@
       ],
       "popularityScore": 6,
       "rating": 6.8,
-      "qualityRank": 39,
-      "popularityRank": 26,
-      "qualityDelta": 0,
-      "popularityDelta": 0
+      "qualityRank": 38,
+      "popularityRank": 25,
+      "qualityDelta": 1,
+      "popularityDelta": 1
     },
     {
       "id": "35321975",
@@ -673,12 +656,12 @@
       "genres": [
         "romance"
       ],
-      "popularityScore": 19,
+      "popularityScore": 20,
       "rating": 6.8,
-      "qualityRank": 40,
-      "popularityRank": 82,
-      "qualityDelta": 0,
-      "popularityDelta": -3
+      "qualityRank": 39,
+      "popularityRank": 87,
+      "qualityDelta": 1,
+      "popularityDelta": -5
     },
     {
       "id": "38194327",
@@ -691,10 +674,10 @@
       ],
       "popularityScore": 20,
       "rating": 6.8,
-      "qualityRank": 41,
-      "popularityRank": 87,
-      "qualityDelta": 0,
-      "popularityDelta": -5
+      "qualityRank": 40,
+      "popularityRank": 88,
+      "qualityDelta": 1,
+      "popularityDelta": -1
     },
     {
       "id": "36415590",
@@ -707,9 +690,26 @@
       ],
       "popularityScore": 1,
       "rating": 6.8,
-      "qualityRank": 42,
+      "qualityRank": 41,
       "popularityRank": 4,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
+      "popularityDelta": 0
+    },
+    {
+      "id": "37191789",
+      "titleCn": "嫁金钗",
+      "titleKr": "자진차이",
+      "url": "https://movie.douban.com/subject/37191789/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936594583.jpg",
+      "genres": [
+        "hyundai",
+        "romance"
+      ],
+      "popularityScore": 4,
+      "rating": 6.7,
+      "qualityRank": 42,
+      "popularityRank": 18,
+      "qualityDelta": -5,
       "popularityDelta": 0
     },
     {
@@ -729,22 +729,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "37070518",
-      "titleCn": "玉簟秋",
-      "titleKr": "위뎬추",
-      "url": "https://movie.douban.com/subject/37070518/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926678761.jpg",
-      "genres": [
-        "romance"
-      ],
-      "popularityScore": null,
-      "rating": 6.7,
-      "qualityRank": 44,
-      "popularityRank": null,
-      "qualityDelta": 0,
-      "popularityDelta": null
-    },
-    {
       "id": "36352600",
       "titleCn": "暗恋者的救赎",
       "titleKr": "안롄저더주수",
@@ -754,12 +738,12 @@
         "romance",
         "suspense"
       ],
-      "popularityScore": 16,
+      "popularityScore": 17,
       "rating": 6.7,
-      "qualityRank": 45,
-      "popularityRank": 72,
-      "qualityDelta": 0,
-      "popularityDelta": 0
+      "qualityRank": 44,
+      "popularityRank": 76,
+      "qualityDelta": 1,
+      "popularityDelta": -4
     },
     {
       "id": "36449912",
@@ -772,9 +756,9 @@
       ],
       "popularityScore": 8,
       "rating": 6.7,
-      "qualityRank": 46,
+      "qualityRank": 45,
       "popularityRank": 35,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
       "popularityDelta": 0
     },
     {
@@ -788,9 +772,9 @@
       ],
       "popularityScore": null,
       "rating": 6.7,
-      "qualityRank": 47,
+      "qualityRank": 46,
       "popularityRank": null,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
       "popularityDelta": null
     },
     {
@@ -804,9 +788,9 @@
       ],
       "popularityScore": null,
       "rating": 6.7,
-      "qualityRank": 48,
+      "qualityRank": 47,
       "popularityRank": null,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
       "popularityDelta": null
     },
     {
@@ -821,10 +805,10 @@
       ],
       "popularityScore": 6,
       "rating": 6.6,
-      "qualityRank": 49,
-      "popularityRank": 27,
-      "qualityDelta": 0,
-      "popularityDelta": 0
+      "qualityRank": 48,
+      "popularityRank": 26,
+      "qualityDelta": 1,
+      "popularityDelta": 1
     },
     {
       "id": "35465012",
@@ -837,10 +821,10 @@
       ],
       "popularityScore": 18,
       "rating": 6.6,
-      "qualityRank": 50,
+      "qualityRank": 49,
       "popularityRank": 79,
-      "qualityDelta": 0,
-      "popularityDelta": 1
+      "qualityDelta": 1,
+      "popularityDelta": 0
     },
     {
       "id": "36782155",
@@ -853,10 +837,10 @@
       ],
       "popularityScore": 5,
       "rating": 6.6,
-      "qualityRank": 51,
-      "popularityRank": 21,
-      "qualityDelta": 0,
-      "popularityDelta": 0
+      "qualityRank": 50,
+      "popularityRank": 22,
+      "qualityDelta": 1,
+      "popularityDelta": -1
     },
     {
       "id": "35452068",
@@ -869,9 +853,9 @@
       ],
       "popularityScore": 9,
       "rating": 6.6,
-      "qualityRank": 52,
+      "qualityRank": 51,
       "popularityRank": 39,
-      "qualityDelta": 0,
+      "qualityDelta": 1,
       "popularityDelta": 0
     },
     {
@@ -883,28 +867,28 @@
       "genres": [
         "romance"
       ],
-      "popularityScore": 20,
-      "rating": 6.5,
-      "qualityRank": 53,
-      "popularityRank": 88,
-      "qualityDelta": 0,
-      "popularityDelta": -1
-    },
-    {
-      "id": "37109676",
-      "titleCn": "谷雨",
-      "titleKr": "구위",
-      "url": "https://movie.douban.com/subject/37109676/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936897680.jpg",
-      "genres": [
-        "suspense"
-      ],
       "popularityScore": 19,
       "rating": 6.5,
-      "qualityRank": 54,
+      "qualityRank": 52,
       "popularityRank": 83,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": 1,
+      "popularityDelta": 5
+    },
+    {
+      "id": "37070518",
+      "titleCn": "玉簟秋",
+      "titleKr": "위뎬추",
+      "url": "https://movie.douban.com/subject/37070518/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926678761.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": null,
+      "rating": 6.5,
+      "qualityRank": 53,
+      "popularityRank": null,
+      "qualityDelta": -9,
+      "popularityDelta": null
     },
     {
       "id": "36093334",
@@ -917,9 +901,9 @@
       ],
       "popularityScore": null,
       "rating": 6.5,
-      "qualityRank": 55,
+      "qualityRank": 54,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 1,
       "popularityDelta": null
     },
     {
@@ -934,9 +918,9 @@
       ],
       "popularityScore": 1,
       "rating": 6.4,
-      "qualityRank": 56,
+      "qualityRank": 55,
       "popularityRank": 5,
-      "qualityDelta": -1,
+      "qualityDelta": 1,
       "popularityDelta": 0
     },
     {
@@ -950,9 +934,9 @@
       ],
       "popularityScore": 2,
       "rating": 6.4,
-      "qualityRank": 57,
+      "qualityRank": 56,
       "popularityRank": 9,
-      "qualityDelta": -1,
+      "qualityDelta": 1,
       "popularityDelta": 0
     },
     {
@@ -966,9 +950,9 @@
       ],
       "popularityScore": null,
       "rating": 6.4,
-      "qualityRank": 58,
+      "qualityRank": 57,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 1,
       "popularityDelta": null
     },
     {
@@ -982,10 +966,26 @@
       ],
       "popularityScore": null,
       "rating": 6.4,
-      "qualityRank": 59,
+      "qualityRank": 58,
       "popularityRank": null,
-      "qualityDelta": -1,
+      "qualityDelta": 1,
       "popularityDelta": null
+    },
+    {
+      "id": "37109676",
+      "titleCn": "谷雨",
+      "titleKr": "구위",
+      "url": "https://movie.douban.com/subject/37109676/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936897680.jpg",
+      "genres": [
+        "suspense"
+      ],
+      "popularityScore": 16,
+      "rating": 6.4,
+      "qualityRank": 59,
+      "popularityRank": 72,
+      "qualityDelta": -5,
+      "popularityDelta": 11
     },
     {
       "id": "37307385",
@@ -999,9 +999,9 @@
       "popularityScore": 14,
       "rating": 6.4,
       "qualityRank": 60,
-      "popularityRank": 63,
-      "qualityDelta": -1,
-      "popularityDelta": 0
+      "popularityRank": 62,
+      "qualityDelta": 0,
+      "popularityDelta": 1
     },
     {
       "id": "36481657",
@@ -1016,7 +1016,7 @@
       "rating": 6.4,
       "qualityRank": 61,
       "popularityRank": 43,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -1032,7 +1032,7 @@
       "rating": 6.3,
       "qualityRank": 62,
       "popularityRank": 13,
-      "qualityDelta": -1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -1044,12 +1044,12 @@
       "genres": [
         "suspense"
       ],
-      "popularityScore": 5,
+      "popularityScore": 6,
       "rating": 6.3,
       "qualityRank": 63,
-      "popularityRank": 22,
-      "qualityDelta": -1,
-      "popularityDelta": 0
+      "popularityRank": 27,
+      "qualityDelta": 0,
+      "popularityDelta": -5
     },
     {
       "id": "37252177",
@@ -1063,9 +1063,9 @@
       "popularityScore": 13,
       "rating": 6.2,
       "qualityRank": 64,
-      "popularityRank": 58,
+      "popularityRank": 59,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "37112008",
@@ -1076,12 +1076,12 @@
       "genres": [
         "romance"
       ],
-      "popularityScore": 13,
+      "popularityScore": 14,
       "rating": 5.9,
       "qualityRank": 65,
-      "popularityRank": 59,
+      "popularityRank": 63,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -4
     },
     {
       "id": "36889962",
@@ -1092,12 +1092,12 @@
       "genres": [
         "romance"
       ],
-      "popularityScore": 14,
+      "popularityScore": 15,
       "rating": 5.9,
       "qualityRank": 66,
-      "popularityRank": 64,
+      "popularityRank": 68,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -4
     },
     {
       "id": "37284831",
@@ -1108,12 +1108,12 @@
       "genres": [
         "suspense"
       ],
-      "popularityScore": 17,
+      "popularityScore": 18,
       "rating": 5.9,
       "qualityRank": 67,
-      "popularityRank": 76,
+      "popularityRank": 80,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": -4
     },
     {
       "id": "35633152",
@@ -1127,9 +1127,9 @@
       "popularityScore": 18,
       "rating": 5.8,
       "qualityRank": 68,
-      "popularityRank": 80,
+      "popularityRank": 81,
       "qualityDelta": 0,
-      "popularityDelta": -4
+      "popularityDelta": -1
     },
     {
       "id": "36640236",
@@ -1144,7 +1144,7 @@
       "rating": 5.4,
       "qualityRank": 69,
       "popularityRank": 54,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -1160,7 +1160,7 @@
       "rating": 5.4,
       "qualityRank": 70,
       "popularityRank": 40,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -1176,7 +1176,7 @@
       "rating": 5.0,
       "qualityRank": 71,
       "popularityRank": 44,
-      "qualityDelta": 1,
+      "qualityDelta": 0,
       "popularityDelta": 0
     },
     {
@@ -1228,22 +1228,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38242967",
-      "titleCn": "冒姓琅琊3",
-      "titleKr": "마오싱랑야3",
-      "url": "https://movie.douban.com/subject/38242967/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931809667.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 10,
-      "rating": null,
-      "popularityRank": 45,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "38187549",
       "titleCn": "冒姓琅琊2",
       "titleKr": "마오싱랑야2",
@@ -1276,6 +1260,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "38242967",
+      "titleCn": "冒姓琅琊3",
+      "titleKr": "마오싱랑야3",
+      "url": "https://movie.douban.com/subject/38242967/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931809667.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 10,
+      "rating": null,
+      "popularityRank": 45,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "38446752",
       "titleCn": "再造宋骨",
       "titleKr": "짜이짜오쏭구",
@@ -1289,7 +1289,23 @@
       "popularityRank": 84,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
+    },
+    {
+      "id": "38931886",
+      "titleCn": "永恒：辛追的一生",
+      "titleKr": "융헝：신주이더이성",
+      "url": "https://movie.douban.com/subject/38931886/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936604885.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "33379740",
@@ -1302,10 +1318,10 @@
       ],
       "popularityScore": 14,
       "rating": null,
-      "popularityRank": 65,
+      "popularityRank": 64,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "39034318",
@@ -1340,118 +1356,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38931886",
-      "titleCn": "永恒：辛追的一生",
-      "titleKr": "융헝：신주이더이성",
-      "url": "https://movie.douban.com/subject/38931886/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936604885.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": null
-    },
-    {
-      "id": "38555098",
-      "titleCn": "真探·一九四九",
-      "titleKr": "전탄·이주쓰주",
-      "url": "https://movie.douban.com/subject/38555098/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937008152.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": null
-    },
-    {
-      "id": "4922839",
-      "titleCn": "刘三姐",
-      "titleKr": "류싼제",
-      "url": "https://movie.douban.com/subject/4922839/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931077246.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 15,
-      "rating": null,
-      "popularityRank": 69,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "37195444",
-      "titleCn": "染指流年",
-      "titleKr": "란즈류녠",
-      "url": "https://movie.douban.com/subject/37195444/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936101209.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
-    },
-    {
-      "id": "39034317",
-      "titleCn": "成化犁庭第一季：初代伐酋",
-      "titleKr": "청화리팅디이지：추다이파추",
-      "url": "https://movie.douban.com/subject/39034317/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937381980.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
-    },
-    {
-      "id": "38364954",
-      "titleCn": "乘风游",
-      "titleKr": "청펑유",
-      "url": "https://movie.douban.com/subject/38364954/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930629291.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 7,
-      "rating": null,
-      "popularityRank": 31,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 1
-    },
-    {
-      "id": "37317465",
-      "titleCn": "马背摇篮",
-      "titleKr": "마베이야오란",
-      "url": "https://movie.douban.com/subject/37317465/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 11,
-      "rating": null,
-      "popularityRank": 50,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "38393455",
       "titleCn": "我在大明那些年2：永乐篇上",
       "titleKr": "워짜이다밍나셰녠2：융러폔상",
@@ -1466,6 +1370,38 @@
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
+    },
+    {
+      "id": "37195444",
+      "titleCn": "染指流年",
+      "titleKr": "란즈류녠",
+      "url": "https://movie.douban.com/subject/37195444/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936101209.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 89,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": null
+    },
+    {
+      "id": "39034317",
+      "titleCn": "成化犁庭第一季：初代伐酋",
+      "titleKr": "청화리팅디이지：추다이파추",
+      "url": "https://movie.douban.com/subject/39034317/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937381980.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "38481652",
@@ -1485,17 +1421,49 @@
       "popularityDelta": 0
     },
     {
-      "id": "38190902",
-      "titleCn": "武则天传奇",
-      "titleKr": "우쩌톈촨치",
-      "url": "https://movie.douban.com/subject/38190902/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932387615.jpg",
+      "id": "38364954",
+      "titleCn": "乘风游",
+      "titleKr": "청펑유",
+      "url": "https://movie.douban.com/subject/38364954/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930629291.jpg",
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 20,
+      "popularityScore": 7,
       "rating": null,
-      "popularityRank": 89,
+      "popularityRank": 31,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "37317465",
+      "titleCn": "马背摇篮",
+      "titleKr": "마베이야오란",
+      "url": "https://movie.douban.com/subject/37317465/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 11,
+      "rating": null,
+      "popularityRank": 50,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "4922839",
+      "titleCn": "刘三姐",
+      "titleKr": "류싼제",
+      "url": "https://movie.douban.com/subject/4922839/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931077246.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 15,
+      "rating": null,
+      "popularityRank": 69,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1533,33 +1501,17 @@
       "popularityDelta": 0
     },
     {
-      "id": "39010151",
-      "titleCn": "护镖人之无敌镖人，开局护送灭世帝女第九季",
-      "titleKr": "후뱌오런즈우디뱌오런，카이쥐후쏭몌스디뉘디주지",
-      "url": "https://movie.douban.com/subject/39010151/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937005344.jpg",
+      "id": "37014529",
+      "titleCn": "人间惊鸿客",
+      "titleKr": "런젠징홍커",
+      "url": "https://movie.douban.com/subject/37014529/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931924883.jpg",
       "genres": [
         "muhyeop"
       ],
-      "popularityScore": 20,
+      "popularityScore": 2,
       "rating": null,
-      "popularityRank": 90,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "37897150",
-      "titleCn": "青瑶不想当杀手",
-      "titleKr": "칭야오부샹당사서우",
-      "url": "https://movie.douban.com/subject/37897150/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929144974.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 9,
-      "rating": null,
-      "popularityRank": 42,
+      "popularityRank": 10,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1581,6 +1533,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "39010151",
+      "titleCn": "护镖人之无敌镖人，开局护送灭世帝女第九季",
+      "titleKr": "후뱌오런즈우디뱌오런，카이쥐후쏭몌스디뉘디주지",
+      "url": "https://movie.douban.com/subject/39010151/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937005344.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 90,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "39056275",
       "titleCn": "末法道士第一季",
       "titleKr": "모파다오스디이지",
@@ -1593,24 +1561,8 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
-    },
-    {
-      "id": "37014529",
-      "titleCn": "人间惊鸿客",
-      "titleKr": "런젠징홍커",
-      "url": "https://movie.douban.com/subject/37014529/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931924883.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 2,
-      "rating": null,
-      "popularityRank": 10,
-      "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": null
     },
     {
       "id": "37125647",
@@ -1658,7 +1610,23 @@
       "popularityRank": 32,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 1
+      "popularityDelta": 0
+    },
+    {
+      "id": "37897150",
+      "titleCn": "青瑶不想当杀手",
+      "titleKr": "칭야오부샹당사서우",
+      "url": "https://movie.douban.com/subject/37897150/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929144974.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 9,
+      "rating": null,
+      "popularityRank": 42,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38383286",
@@ -1689,8 +1657,8 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
       "id": "38445175",
@@ -1707,6 +1675,22 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
+    },
+    {
+      "id": "39059710",
+      "titleCn": "灵玥传之踏九幽",
+      "titleKr": "링웨촨즈타주유",
+      "url": "https://movie.douban.com/subject/39059710/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937599565.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "39036405",
@@ -1783,10 +1767,10 @@
       ],
       "popularityScore": 14,
       "rating": null,
-      "popularityRank": 66,
+      "popularityRank": 65,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "38222827",
@@ -1847,10 +1831,10 @@
       ],
       "popularityScore": 18,
       "rating": null,
-      "popularityRank": 81,
+      "popularityRank": 82,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
     }
   ]
 }
