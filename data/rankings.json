@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-22T10:02:29+09:00",
-  "checkedAt": "2026-11-22T10:02:29+09:00",
+  "updatedAt": "2026-11-23T10:28:24+09:00",
+  "checkedAt": "2026-11-23T10:28:24+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -43,7 +43,7 @@
       "qualityRank": 1,
       "popularityRank": 11,
       "qualityDelta": 0,
-      "popularityDelta": 5
+      "popularityDelta": 0
     },
     {
       "id": "36317421",
@@ -92,7 +92,7 @@
       "qualityRank": 4,
       "popularityRank": 12,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35295564",
@@ -173,7 +173,7 @@
       "qualityRank": 9,
       "popularityRank": 43,
       "qualityDelta": 0,
-      "popularityDelta": 9
+      "popularityDelta": 0
     },
     {
       "id": "37070283",
@@ -271,7 +271,7 @@
       "qualityRank": 15,
       "popularityRank": 13,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36675848",
@@ -303,7 +303,7 @@
       "qualityRank": 17,
       "popularityRank": 57,
       "qualityDelta": 0,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "37042229",
@@ -336,7 +336,7 @@
       "qualityRank": 19,
       "popularityRank": 52,
       "qualityDelta": 0,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "35805716",
@@ -417,7 +417,7 @@
       "qualityRank": 24,
       "popularityRank": 16,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "37317021",
@@ -433,7 +433,7 @@
       "qualityRank": 25,
       "popularityRank": 48,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "37196710",
@@ -465,7 +465,7 @@
       "qualityRank": 27,
       "popularityRank": 58,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "36126294",
@@ -710,7 +710,7 @@
       "qualityRank": 42,
       "popularityRank": 14,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "35929169",
@@ -726,7 +726,7 @@
       "qualityRank": 43,
       "popularityRank": 53,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "36352600",
@@ -985,7 +985,7 @@
       "qualityRank": 59,
       "popularityRank": 44,
       "qualityDelta": 0,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37234503",
@@ -1001,7 +1001,7 @@
       "qualityRank": 60,
       "popularityRank": 17,
       "qualityDelta": 0,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "37109676",
@@ -1017,7 +1017,7 @@
       "qualityRank": 61,
       "popularityRank": 54,
       "qualityDelta": 0,
-      "popularityDelta": 4
+      "popularityDelta": 0
     },
     {
       "id": "35496641",
@@ -1177,7 +1177,7 @@
       "qualityRank": 71,
       "popularityRank": 49,
       "qualityDelta": 0,
-      "popularityDelta": -5
+      "popularityDelta": 0
     },
     {
       "id": "38407550",
@@ -1193,7 +1193,7 @@
       "popularityRank": 18,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -4
+      "popularityDelta": 0
     },
     {
       "id": "39021355",
@@ -1308,6 +1308,22 @@
       "popularityDelta": null
     },
     {
+      "id": "38364954",
+      "titleCn": "乘风游",
+      "titleKr": "청펑유",
+      "url": "https://movie.douban.com/subject/38364954/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930629291.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 7,
+      "rating": null,
+      "popularityRank": 31,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "33379740",
       "titleCn": "人民的选择",
       "titleKr": "런민더쉬안쩌",
@@ -1338,22 +1354,6 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
-    },
-    {
-      "id": "38364954",
-      "titleCn": "乘风游",
-      "titleKr": "청펑유",
-      "url": "https://movie.douban.com/subject/38364954/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930629291.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 7,
-      "rating": null,
-      "popularityRank": 31,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
     },
     {
       "id": "38393455",
@@ -1400,24 +1400,24 @@
       "rating": null,
       "qualityRank": null,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": null,
+      "popularityDelta": null
     },
     {
-      "id": "4922839",
-      "titleCn": "刘三姐",
-      "titleKr": "류싼제",
-      "url": "https://movie.douban.com/subject/4922839/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931077246.jpg",
+      "id": "38905106",
+      "titleCn": "烽火山河",
+      "titleKr": "펑훠산허",
+      "url": "https://movie.douban.com/subject/38905106/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936067699.jpg",
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 15,
+      "popularityScore": null,
       "rating": null,
-      "popularityRank": 69,
       "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "37317465",
@@ -1452,6 +1452,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "4922839",
+      "titleCn": "刘三姐",
+      "titleKr": "류싼제",
+      "url": "https://movie.douban.com/subject/4922839/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2931077246.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 15,
+      "rating": null,
+      "popularityRank": 69,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "38481652",
       "titleCn": "皇上今天废后吗",
       "titleKr": "황상진톈페이허우마",
@@ -1464,38 +1480,6 @@
       "popularityScore": 12,
       "rating": null,
       "popularityRank": 56,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "38481804",
-      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
-      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
-      "url": "https://movie.douban.com/subject/38481804/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 10,
-      "rating": null,
-      "popularityRank": 46,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "38544860",
-      "titleCn": "山竹刀",
-      "titleKr": "산주다오",
-      "url": "https://movie.douban.com/subject/38544860/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935499952.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 5,
-      "rating": null,
-      "popularityRank": 23,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1517,6 +1501,38 @@
       "popularityDelta": null
     },
     {
+      "id": "38544860",
+      "titleCn": "山竹刀",
+      "titleKr": "산주다오",
+      "url": "https://movie.douban.com/subject/38544860/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935499952.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 5,
+      "rating": null,
+      "popularityRank": 23,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38481804",
+      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
+      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
+      "url": "https://movie.douban.com/subject/38481804/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 10,
+      "rating": null,
+      "popularityRank": 46,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "37014529",
       "titleCn": "人间惊鸿客",
       "titleKr": "런젠징홍커",
@@ -1528,22 +1544,6 @@
       "popularityScore": 2,
       "rating": null,
       "popularityRank": 10,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "38215992",
-      "titleCn": "少年歌行之天下无双",
-      "titleKr": "사오녠거싱즈톈샤우솽",
-      "url": "https://movie.douban.com/subject/38215992/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929240640.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 6,
-      "rating": null,
-      "popularityRank": 28,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1579,6 +1579,22 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
+    },
+    {
+      "id": "38215992",
+      "titleCn": "少年歌行之天下无双",
+      "titleKr": "사오녠거싱즈톈샤우솽",
+      "url": "https://movie.douban.com/subject/38215992/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929240640.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 6,
+      "rating": null,
+      "popularityRank": 28,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38231759",
