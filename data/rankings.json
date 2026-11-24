@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T10:28:24+09:00",
-  "checkedAt": "2026-11-23T10:28:24+09:00",
+  "updatedAt": "2026-11-24T14:11:00+09:00",
+  "checkedAt": "2026-11-24T14:11:00+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -347,12 +347,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 20,
+      "popularityScore": null,
       "rating": 7.4,
       "qualityRank": 20,
-      "popularityRank": 86,
+      "popularityRank": null,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": null
     },
     {
       "id": "37297001",
@@ -428,12 +428,12 @@
       "genres": [
         "suspense"
       ],
-      "popularityScore": 11,
+      "popularityScore": 12,
       "rating": 7.3,
       "qualityRank": 25,
-      "popularityRank": 48,
+      "popularityRank": 53,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -5
     },
     {
       "id": "37196710",
@@ -659,9 +659,9 @@
       "popularityScore": 20,
       "rating": 6.8,
       "qualityRank": 39,
-      "popularityRank": 87,
+      "popularityRank": 86,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "38194327",
@@ -675,9 +675,9 @@
       "popularityScore": 20,
       "rating": 6.8,
       "qualityRank": 40,
-      "popularityRank": 88,
+      "popularityRank": 87,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 1
     },
     {
       "id": "36415590",
@@ -724,9 +724,9 @@
       "popularityScore": 12,
       "rating": 6.7,
       "qualityRank": 43,
-      "popularityRank": 53,
+      "popularityRank": 54,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "36352600",
@@ -1012,12 +1012,12 @@
       "genres": [
         "suspense"
       ],
-      "popularityScore": 12,
+      "popularityScore": 11,
       "rating": 6.3,
       "qualityRank": 61,
-      "popularityRank": 54,
+      "popularityRank": 48,
       "qualityDelta": 0,
-      "popularityDelta": 0
+      "popularityDelta": 6
     },
     {
       "id": "35496641",
@@ -1180,6 +1180,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "35235320",
+      "titleCn": "两京十五日",
+      "titleKr": "량징스우르",
+      "url": "https://movie.douban.com/subject/35235320/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2937593221.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 88,
+      "qualityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
       "id": "38407550",
       "titleCn": "莫得闲",
       "titleKr": "모더셴",
@@ -1292,22 +1308,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38931886",
-      "titleCn": "永恒：辛追的一生",
-      "titleKr": "융헝：신주이더이성",
-      "url": "https://movie.douban.com/subject/38931886/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936604885.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": null
-    },
-    {
       "id": "38364954",
       "titleCn": "乘风游",
       "titleKr": "청펑유",
@@ -1324,20 +1324,20 @@
       "popularityDelta": 0
     },
     {
-      "id": "33379740",
-      "titleCn": "人民的选择",
-      "titleKr": "런민더쉬안쩌",
-      "url": "https://movie.douban.com/subject/33379740/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
+      "id": "38931886",
+      "titleCn": "永恒：辛追的一生",
+      "titleKr": "융헝：신주이더이성",
+      "url": "https://movie.douban.com/subject/38931886/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936604885.jpg",
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": 14,
+      "popularityScore": null,
       "rating": null,
-      "popularityRank": 64,
       "qualityRank": null,
+      "popularityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": null
     },
     {
       "id": "39034318",
@@ -1354,6 +1354,22 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
+    },
+    {
+      "id": "33379740",
+      "titleCn": "人民的选择",
+      "titleKr": "런민더쉬안쩌",
+      "url": "https://movie.douban.com/subject/33379740/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 14,
+      "rating": null,
+      "popularityRank": 64,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
     },
     {
       "id": "38393455",
@@ -1388,6 +1404,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "38924571",
+      "titleCn": "伪装者浓雾之下",
+      "titleKr": "웨이좡저농우즈샤",
+      "url": "https://movie.douban.com/subject/38924571/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936505442.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": null,
+      "rating": null,
+      "qualityRank": null,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
       "id": "38931954",
       "titleCn": "洪武苟长生第二季",
       "titleKr": "홍우거우창성디얼지",
@@ -1402,22 +1434,6 @@
       "popularityRank": null,
       "qualityDelta": null,
       "popularityDelta": null
-    },
-    {
-      "id": "38905106",
-      "titleCn": "烽火山河",
-      "titleKr": "펑훠산허",
-      "url": "https://movie.douban.com/subject/38905106/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936067699.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
     },
     {
       "id": "37317465",
@@ -1517,22 +1533,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "38481804",
-      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
-      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
-      "url": "https://movie.douban.com/subject/38481804/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 10,
-      "rating": null,
-      "popularityRank": 46,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "37014529",
       "titleCn": "人间惊鸿客",
       "titleKr": "런젠징홍커",
@@ -1613,6 +1613,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "38481804",
+      "titleCn": "谁说没灵根不能修仙的？之无灵证道",
+      "titleKr": "수이숴메이링건부넝슈셴더？즈우링정다오",
+      "url": "https://movie.douban.com/subject/38481804/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932599595.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 10,
+      "rating": null,
+      "popularityRank": 46,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
       "id": "38383286",
       "titleCn": "剑归",
       "titleKr": "젠구이",
@@ -1624,22 +1640,6 @@
       "popularityScore": 11,
       "rating": null,
       "popularityRank": 51,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "38646779",
-      "titleCn": "穿越女频开局送皇后白月光进东厂",
-      "titleKr": "촨웨뉘핀카이쥐쏭황허우바이웨광진동창",
-      "url": "https://movie.douban.com/subject/38646779/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935626326.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 19,
-      "rating": null,
-      "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1848,6 +1848,22 @@
       "popularityScore": 18,
       "rating": null,
       "popularityRank": 82,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38646779",
+      "titleCn": "穿越女频开局送皇后白月光进东厂",
+      "titleKr": "촨웨뉘핀카이쥐쏭황허우바이웨광진동창",
+      "url": "https://movie.douban.com/subject/38646779/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935626326.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 19,
+      "rating": null,
+      "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
