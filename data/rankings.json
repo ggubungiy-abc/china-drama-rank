@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T13:00:30+09:00",
-  "checkedAt": "2026-11-25T13:00:30+09:00",
+  "updatedAt": "2026-11-26T12:25:24+09:00",
+  "checkedAt": "2026-11-26T12:25:24+09:00",
   "year": "2026",
   "status": "ok",
   "failedSources": [],
@@ -63,6 +63,22 @@
       "popularityDelta": 0
     },
     {
+      "id": "39029178",
+      "titleCn": "一昭成名",
+      "titleKr": "이자오청밍",
+      "url": "https://movie.douban.com/subject/39029178/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937268373.jpg",
+      "genres": [
+        "hyundai"
+      ],
+      "popularityScore": null,
+      "rating": 8.7,
+      "qualityRank": 3,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
+    },
+    {
       "id": "35424715",
       "titleCn": "生命树",
       "titleKr": "성밍수",
@@ -73,9 +89,9 @@
       ],
       "popularityScore": 1,
       "rating": 8.4,
-      "qualityRank": 3,
+      "qualityRank": 4,
       "popularityRank": 2,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -89,9 +105,9 @@
       ],
       "popularityScore": 3,
       "rating": 8.2,
-      "qualityRank": 4,
+      "qualityRank": 5,
       "popularityRank": 12,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -105,9 +121,9 @@
       ],
       "popularityScore": 8,
       "rating": 8.2,
-      "qualityRank": 5,
+      "qualityRank": 6,
       "popularityRank": 33,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -121,9 +137,9 @@
       ],
       "popularityScore": 2,
       "rating": 8.1,
-      "qualityRank": 6,
+      "qualityRank": 7,
       "popularityRank": 6,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -135,12 +151,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 15,
+      "popularityScore": 16,
       "rating": 8.1,
-      "qualityRank": 7,
-      "popularityRank": 66,
-      "qualityDelta": 0,
-      "popularityDelta": 0
+      "qualityRank": 8,
+      "popularityRank": 71,
+      "qualityDelta": -1,
+      "popularityDelta": -5
     },
     {
       "id": "38545320",
@@ -153,9 +169,9 @@
       ],
       "popularityScore": null,
       "rating": 8.1,
-      "qualityRank": 8,
+      "qualityRank": 9,
       "popularityRank": null,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": null
     },
     {
@@ -170,9 +186,9 @@
       ],
       "popularityScore": 10,
       "rating": 8.0,
-      "qualityRank": 9,
+      "qualityRank": 10,
       "popularityRank": 43,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -186,9 +202,9 @@
       ],
       "popularityScore": null,
       "rating": 7.9,
-      "qualityRank": 10,
+      "qualityRank": 11,
       "popularityRank": null,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": null
     },
     {
@@ -202,9 +218,9 @@
       ],
       "popularityScore": null,
       "rating": 7.8,
-      "qualityRank": 11,
+      "qualityRank": 12,
       "popularityRank": null,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": null
     },
     {
@@ -218,9 +234,9 @@
       ],
       "popularityScore": null,
       "rating": 7.8,
-      "qualityRank": 12,
+      "qualityRank": 13,
       "popularityRank": null,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": null
     },
     {
@@ -234,10 +250,27 @@
       ],
       "popularityScore": null,
       "rating": 7.7,
-      "qualityRank": 13,
+      "qualityRank": 14,
       "popularityRank": null,
-      "qualityDelta": 0,
+      "qualityDelta": -1,
       "popularityDelta": null
+    },
+    {
+      "id": "38201023",
+      "titleCn": "爱我万岁1",
+      "titleKr": "아이워완쑤이1",
+      "url": "https://movie.douban.com/subject/38201023/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929958503.jpg",
+      "genres": [
+        "hyundai",
+        "romance"
+      ],
+      "popularityScore": null,
+      "rating": 7.7,
+      "qualityRank": 15,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "36449295",
@@ -251,9 +284,9 @@
       ],
       "popularityScore": 2,
       "rating": 7.6,
-      "qualityRank": 14,
+      "qualityRank": 16,
       "popularityRank": 7,
-      "qualityDelta": 0,
+      "qualityDelta": -2,
       "popularityDelta": 0
     },
     {
@@ -268,9 +301,9 @@
       ],
       "popularityScore": 3,
       "rating": 7.6,
-      "qualityRank": 15,
+      "qualityRank": 17,
       "popularityRank": 13,
-      "qualityDelta": 0,
+      "qualityDelta": -2,
       "popularityDelta": 0
     },
     {
@@ -284,9 +317,9 @@
       ],
       "popularityScore": null,
       "rating": 7.5,
-      "qualityRank": 16,
+      "qualityRank": 18,
       "popularityRank": null,
-      "qualityDelta": 0,
+      "qualityDelta": -2,
       "popularityDelta": null
     },
     {
@@ -300,10 +333,10 @@
       ],
       "popularityScore": null,
       "rating": 7.5,
-      "qualityRank": 17,
+      "qualityRank": 19,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": -2,
+      "popularityDelta": null
     },
     {
       "id": "38365129",
@@ -316,9 +349,9 @@
       ],
       "popularityScore": 13,
       "rating": 7.5,
-      "qualityRank": 18,
+      "qualityRank": 20,
       "popularityRank": 57,
-      "qualityDelta": -1,
+      "qualityDelta": -2,
       "popularityDelta": 0
     },
     {
@@ -332,9 +365,9 @@
       ],
       "popularityScore": 11,
       "rating": 7.4,
-      "qualityRank": 19,
+      "qualityRank": 21,
       "popularityRank": 47,
-      "qualityDelta": -1,
+      "qualityDelta": -2,
       "popularityDelta": 0
     },
     {
@@ -344,31 +377,14 @@
       "url": "https://movie.douban.com/subject/35943650/",
       "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930085518.jpg",
       "genres": [
-        "hyundai",
         "romance"
       ],
       "popularityScore": 12,
       "rating": 7.4,
-      "qualityRank": 20,
+      "qualityRank": 22,
       "popularityRank": 52,
-      "qualityDelta": -1,
+      "qualityDelta": -2,
       "popularityDelta": 0
-    },
-    {
-      "id": "35805716",
-      "titleCn": "家事法庭",
-      "titleKr": "자스파팅",
-      "url": "https://movie.douban.com/subject/35805716/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2930951512.jpg",
-      "genres": [
-        "hyundai"
-      ],
-      "popularityScore": null,
-      "rating": 7.4,
-      "qualityRank": 21,
-      "popularityRank": null,
-      "qualityDelta": -1,
-      "popularityDelta": null
     },
     {
       "id": "38189883",
@@ -381,10 +397,10 @@
       ],
       "popularityScore": null,
       "rating": 7.4,
-      "qualityRank": 22,
+      "qualityRank": 23,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": -1,
+      "popularityDelta": null
     },
     {
       "id": "36883114",
@@ -397,7 +413,7 @@
       ],
       "popularityScore": 6,
       "rating": 7.3,
-      "qualityRank": 23,
+      "qualityRank": 24,
       "popularityRank": 24,
       "qualityDelta": -1,
       "popularityDelta": 0
@@ -413,10 +429,10 @@
       ],
       "popularityScore": 5,
       "rating": 7.3,
-      "qualityRank": 24,
+      "qualityRank": 25,
       "popularityRank": 20,
       "qualityDelta": -1,
-      "popularityDelta": 1
+      "popularityDelta": 0
     },
     {
       "id": "37297001",
@@ -429,10 +445,10 @@
       ],
       "popularityScore": 5,
       "rating": 7.3,
-      "qualityRank": 25,
+      "qualityRank": 26,
       "popularityRank": 21,
-      "qualityDelta": -4,
-      "popularityDelta": -1
+      "qualityDelta": -1,
+      "popularityDelta": 0
     },
     {
       "id": "36566053",
@@ -445,9 +461,9 @@
       ],
       "popularityScore": 4,
       "rating": 7.3,
-      "qualityRank": 26,
+      "qualityRank": 27,
       "popularityRank": 16,
-      "qualityDelta": -2,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -461,9 +477,9 @@
       ],
       "popularityScore": 12,
       "rating": 7.3,
-      "qualityRank": 27,
+      "qualityRank": 28,
       "popularityRank": 53,
-      "qualityDelta": -2,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -477,10 +493,10 @@
       ],
       "popularityScore": 16,
       "rating": 7.3,
-      "qualityRank": 28,
-      "popularityRank": 71,
-      "qualityDelta": -2,
-      "popularityDelta": 0
+      "qualityRank": 29,
+      "popularityRank": 72,
+      "qualityDelta": -1,
+      "popularityDelta": -1
     },
     {
       "id": "36810153",
@@ -491,12 +507,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 13,
+      "popularityScore": 14,
       "rating": 7.2,
-      "qualityRank": 29,
-      "popularityRank": 58,
-      "qualityDelta": -2,
-      "popularityDelta": 0
+      "qualityRank": 30,
+      "popularityRank": 62,
+      "qualityDelta": -1,
+      "popularityDelta": -4
     },
     {
       "id": "38231816",
@@ -509,10 +525,10 @@
       ],
       "popularityScore": null,
       "rating": 7.2,
-      "qualityRank": 30,
+      "qualityRank": 31,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": -1,
+      "popularityDelta": null
     },
     {
       "id": "36126294",
@@ -525,9 +541,9 @@
       ],
       "popularityScore": 9,
       "rating": 7.1,
-      "qualityRank": 31,
+      "qualityRank": 32,
       "popularityRank": 38,
-      "qualityDelta": -3,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -541,9 +557,9 @@
       ],
       "popularityScore": 7,
       "rating": 7.1,
-      "qualityRank": 32,
+      "qualityRank": 33,
       "popularityRank": 29,
-      "qualityDelta": -3,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -558,9 +574,9 @@
       ],
       "popularityScore": 1,
       "rating": 7.0,
-      "qualityRank": 33,
+      "qualityRank": 34,
       "popularityRank": 3,
-      "qualityDelta": -3,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -575,9 +591,9 @@
       ],
       "popularityScore": 2,
       "rating": 7.0,
-      "qualityRank": 34,
+      "qualityRank": 35,
       "popularityRank": 8,
-      "qualityDelta": -3,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -591,10 +607,10 @@
       ],
       "popularityScore": null,
       "rating": 7.0,
-      "qualityRank": 35,
+      "qualityRank": 36,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": -1,
+      "popularityDelta": null
     },
     {
       "id": "38394609",
@@ -607,10 +623,10 @@
       ],
       "popularityScore": null,
       "rating": 7.0,
-      "qualityRank": 36,
+      "qualityRank": 37,
       "popularityRank": null,
-      "qualityDelta": "new",
-      "popularityDelta": "new"
+      "qualityDelta": -1,
+      "popularityDelta": null
     },
     {
       "id": "37317368",
@@ -623,9 +639,9 @@
       ],
       "popularityScore": 7,
       "rating": 6.9,
-      "qualityRank": 37,
+      "qualityRank": 38,
       "popularityRank": 30,
-      "qualityDelta": -5,
+      "qualityDelta": -1,
       "popularityDelta": 0
     },
     {
@@ -639,10 +655,10 @@
       ],
       "popularityScore": 16,
       "rating": 6.9,
-      "qualityRank": 38,
-      "popularityRank": 72,
-      "qualityDelta": -5,
-      "popularityDelta": 0
+      "qualityRank": 39,
+      "popularityRank": 73,
+      "qualityDelta": -1,
+      "popularityDelta": -1
     },
     {
       "id": "37066824",
@@ -655,10 +671,10 @@
       ],
       "popularityScore": 17,
       "rating": 6.9,
-      "qualityRank": 39,
-      "popularityRank": 75,
-      "qualityDelta": -5,
-      "popularityDelta": 0
+      "qualityRank": 40,
+      "popularityRank": 76,
+      "qualityDelta": -1,
+      "popularityDelta": -1
     },
     {
       "id": "35897502",
@@ -671,10 +687,26 @@
       ],
       "popularityScore": null,
       "rating": 6.9,
-      "qualityRank": 40,
+      "qualityRank": 41,
       "popularityRank": null,
-      "qualityDelta": -5,
+      "qualityDelta": -1,
       "popularityDelta": null
+    },
+    {
+      "id": "38411884",
+      "titleCn": "好雨知时节",
+      "titleKr": "하오위즈스제",
+      "url": "https://movie.douban.com/subject/38411884/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931801482.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": null,
+      "rating": 6.9,
+      "qualityRank": 42,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "38461167",
@@ -687,9 +719,9 @@
       ],
       "popularityScore": null,
       "rating": 6.9,
-      "qualityRank": 41,
+      "qualityRank": 43,
       "popularityRank": null,
-      "qualityDelta": -5,
+      "qualityDelta": -2,
       "popularityDelta": null
     },
     {
@@ -704,9 +736,9 @@
       ],
       "popularityScore": 8,
       "rating": 6.8,
-      "qualityRank": 42,
+      "qualityRank": 44,
       "popularityRank": 34,
-      "qualityDelta": -5,
+      "qualityDelta": -2,
       "popularityDelta": 0
     },
     {
@@ -721,9 +753,9 @@
       ],
       "popularityScore": 6,
       "rating": 6.8,
-      "qualityRank": 43,
+      "qualityRank": 45,
       "popularityRank": 25,
-      "qualityDelta": -5,
+      "qualityDelta": -2,
       "popularityDelta": 0
     },
     {
@@ -737,10 +769,26 @@
       ],
       "popularityScore": 20,
       "rating": 6.8,
-      "qualityRank": 44,
+      "qualityRank": 46,
       "popularityRank": 87,
-      "qualityDelta": -5,
-      "popularityDelta": -1
+      "qualityDelta": -2,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38436819",
+      "titleCn": "姐，他真是我姐夫",
+      "titleKr": "제，타전스워제푸",
+      "url": "https://movie.douban.com/subject/38436819/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2932723485.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": null,
+      "rating": 6.8,
+      "qualityRank": 47,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "38194327",
@@ -753,10 +801,10 @@
       ],
       "popularityScore": 20,
       "rating": 6.8,
-      "qualityRank": 45,
+      "qualityRank": 48,
       "popularityRank": 88,
-      "qualityDelta": -5,
-      "popularityDelta": -1
+      "qualityDelta": -3,
+      "popularityDelta": 0
     },
     {
       "id": "36415590",
@@ -769,9 +817,9 @@
       ],
       "popularityScore": 1,
       "rating": 6.8,
-      "qualityRank": 46,
+      "qualityRank": 49,
       "popularityRank": 4,
-      "qualityDelta": -5,
+      "qualityDelta": -3,
       "popularityDelta": 0
     },
     {
@@ -786,9 +834,9 @@
       ],
       "popularityScore": 3,
       "rating": 6.7,
-      "qualityRank": 47,
+      "qualityRank": 50,
       "popularityRank": 14,
-      "qualityDelta": -5,
+      "qualityDelta": -3,
       "popularityDelta": 0
     },
     {
@@ -800,12 +848,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 12,
+      "popularityScore": 13,
       "rating": 6.7,
-      "qualityRank": 48,
-      "popularityRank": 54,
-      "qualityDelta": -5,
-      "popularityDelta": 0
+      "qualityRank": 51,
+      "popularityRank": 58,
+      "qualityDelta": -3,
+      "popularityDelta": -4
     },
     {
       "id": "36352600",
@@ -819,10 +867,26 @@
       ],
       "popularityScore": 17,
       "rating": 6.7,
-      "qualityRank": 49,
-      "popularityRank": 76,
-      "qualityDelta": -5,
-      "popularityDelta": 0
+      "qualityRank": 52,
+      "popularityRank": 77,
+      "qualityDelta": -3,
+      "popularityDelta": -1
+    },
+    {
+      "id": "38455885",
+      "titleCn": "渐染",
+      "titleKr": "젠란",
+      "url": "https://movie.douban.com/subject/38455885/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2932446067.jpg",
+      "genres": [
+        "romance"
+      ],
+      "popularityScore": null,
+      "rating": 6.7,
+      "qualityRank": 53,
+      "popularityRank": null,
+      "qualityDelta": "new",
+      "popularityDelta": "new"
     },
     {
       "id": "36449912",
@@ -835,9 +899,9 @@
       ],
       "popularityScore": 8,
       "rating": 6.7,
-      "qualityRank": 50,
+      "qualityRank": 54,
       "popularityRank": 35,
-      "qualityDelta": -5,
+      "qualityDelta": -4,
       "popularityDelta": 0
     },
     {
@@ -851,9 +915,9 @@
       ],
       "popularityScore": null,
       "rating": 6.7,
-      "qualityRank": 51,
+      "qualityRank": 55,
       "popularityRank": null,
-      "qualityDelta": -5,
+      "qualityDelta": -4,
       "popularityDelta": null
     },
     {
@@ -867,9 +931,9 @@
       ],
       "popularityScore": null,
       "rating": 6.7,
-      "qualityRank": 52,
+      "qualityRank": 56,
       "popularityRank": null,
-      "qualityDelta": -5,
+      "qualityDelta": -4,
       "popularityDelta": null
     },
     {
@@ -884,9 +948,9 @@
       ],
       "popularityScore": 6,
       "rating": 6.6,
-      "qualityRank": 53,
+      "qualityRank": 57,
       "popularityRank": 26,
-      "qualityDelta": -5,
+      "qualityDelta": -4,
       "popularityDelta": 0
     },
     {
@@ -900,10 +964,10 @@
       ],
       "popularityScore": 19,
       "rating": 6.6,
-      "qualityRank": 54,
+      "qualityRank": 58,
       "popularityRank": 83,
-      "qualityDelta": -5,
-      "popularityDelta": -4
+      "qualityDelta": -4,
+      "popularityDelta": 0
     },
     {
       "id": "36782155",
@@ -916,9 +980,9 @@
       ],
       "popularityScore": 5,
       "rating": 6.6,
-      "qualityRank": 55,
+      "qualityRank": 59,
       "popularityRank": 22,
-      "qualityDelta": -5,
+      "qualityDelta": -4,
       "popularityDelta": 0
     },
     {
@@ -932,9 +996,9 @@
       ],
       "popularityScore": 9,
       "rating": 6.6,
-      "qualityRank": 56,
+      "qualityRank": 60,
       "popularityRank": 39,
-      "qualityDelta": -5,
+      "qualityDelta": -4,
       "popularityDelta": 0
     },
     {
@@ -948,26 +1012,10 @@
       ],
       "popularityScore": 19,
       "rating": 6.5,
-      "qualityRank": 57,
+      "qualityRank": 61,
       "popularityRank": 84,
-      "qualityDelta": -5,
-      "popularityDelta": -1
-    },
-    {
-      "id": "37070518",
-      "titleCn": "玉簟秋",
-      "titleKr": "위뎬추",
-      "url": "https://movie.douban.com/subject/37070518/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926678761.jpg",
-      "genres": [
-        "romance"
-      ],
-      "popularityScore": null,
-      "rating": 6.5,
-      "qualityRank": 58,
-      "popularityRank": null,
-      "qualityDelta": -5,
-      "popularityDelta": null
+      "qualityDelta": -4,
+      "popularityDelta": 0
     },
     {
       "id": "36093334",
@@ -980,9 +1028,9 @@
       ],
       "popularityScore": null,
       "rating": 6.5,
-      "qualityRank": 59,
+      "qualityRank": 62,
       "popularityRank": null,
-      "qualityDelta": -5,
+      "qualityDelta": -3,
       "popularityDelta": null
     },
     {
@@ -997,9 +1045,9 @@
       ],
       "popularityScore": 1,
       "rating": 6.4,
-      "qualityRank": 60,
+      "qualityRank": 63,
       "popularityRank": 5,
-      "qualityDelta": -5,
+      "qualityDelta": -3,
       "popularityDelta": 0
     },
     {
@@ -1013,9 +1061,9 @@
       ],
       "popularityScore": 2,
       "rating": 6.4,
-      "qualityRank": 61,
+      "qualityRank": 64,
       "popularityRank": 9,
-      "qualityDelta": -5,
+      "qualityDelta": -3,
       "popularityDelta": 0
     },
     {
@@ -1029,7 +1077,7 @@
       ],
       "popularityScore": 10,
       "rating": 6.4,
-      "qualityRank": 62,
+      "qualityRank": 65,
       "popularityRank": 44,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1045,7 +1093,7 @@
       ],
       "popularityScore": 4,
       "rating": 6.3,
-      "qualityRank": 63,
+      "qualityRank": 66,
       "popularityRank": 17,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1061,7 +1109,7 @@
       ],
       "popularityScore": 11,
       "rating": 6.3,
-      "qualityRank": 64,
+      "qualityRank": 67,
       "popularityRank": 48,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1077,7 +1125,7 @@
       ],
       "popularityScore": 6,
       "rating": 6.3,
-      "qualityRank": 65,
+      "qualityRank": 68,
       "popularityRank": 27,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1093,10 +1141,10 @@
       ],
       "popularityScore": 14,
       "rating": 6.2,
-      "qualityRank": 66,
-      "popularityRank": 62,
+      "qualityRank": 69,
+      "popularityRank": 63,
       "qualityDelta": -3,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "37307385",
@@ -1109,7 +1157,7 @@
       ],
       "popularityScore": 15,
       "rating": 6.2,
-      "qualityRank": 67,
+      "qualityRank": 70,
       "popularityRank": 67,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1125,10 +1173,10 @@
       ],
       "popularityScore": 14,
       "rating": 5.9,
-      "qualityRank": 68,
-      "popularityRank": 63,
+      "qualityRank": 71,
+      "popularityRank": 64,
       "qualityDelta": -3,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "36889962",
@@ -1141,7 +1189,7 @@
       ],
       "popularityScore": 15,
       "rating": 5.9,
-      "qualityRank": 69,
+      "qualityRank": 72,
       "popularityRank": 68,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1157,7 +1205,7 @@
       ],
       "popularityScore": 18,
       "rating": 5.9,
-      "qualityRank": 70,
+      "qualityRank": 73,
       "popularityRank": 80,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1173,7 +1221,7 @@
       ],
       "popularityScore": 18,
       "rating": 5.8,
-      "qualityRank": 71,
+      "qualityRank": 74,
       "popularityRank": 81,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1189,7 +1237,7 @@
       ],
       "popularityScore": 13,
       "rating": 5.4,
-      "qualityRank": 72,
+      "qualityRank": 75,
       "popularityRank": 59,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1205,7 +1253,7 @@
       ],
       "popularityScore": 9,
       "rating": 5.4,
-      "qualityRank": 73,
+      "qualityRank": 76,
       "popularityRank": 40,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1221,7 +1269,7 @@
       ],
       "popularityScore": 11,
       "rating": 5.0,
-      "qualityRank": 74,
+      "qualityRank": 77,
       "popularityRank": 49,
       "qualityDelta": -3,
       "popularityDelta": 0
@@ -1235,12 +1283,12 @@
       "genres": [
         "hyundai"
       ],
-      "popularityScore": 17,
+      "popularityScore": 12,
       "rating": null,
-      "popularityRank": 77,
+      "popularityRank": 54,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 11
+      "popularityDelta": 23
     },
     {
       "id": "38407550",
@@ -1269,10 +1317,10 @@
       ],
       "popularityScore": 16,
       "rating": null,
-      "popularityRank": 73,
+      "popularityRank": 74,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "35633857",
@@ -1368,38 +1416,6 @@
       "popularityRank": 85,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
-    },
-    {
-      "id": "39034318",
-      "titleCn": "成化犁庭第二季：汪直扫穴",
-      "titleKr": "청화리팅디얼지：왕즈싸오쉐",
-      "url": "https://movie.douban.com/subject/39034318/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937381982.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": null,
-      "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": null
-    },
-    {
-      "id": "33379740",
-      "titleCn": "人民的选择",
-      "titleKr": "런민더쉬안쩌",
-      "url": "https://movie.douban.com/subject/33379740/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 14,
-      "rating": null,
-      "popularityRank": 64,
-      "qualityRank": null,
-      "qualityDelta": null,
       "popularityDelta": 0
     },
     {
@@ -1416,7 +1432,7 @@
       "popularityRank": 78,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     },
     {
       "id": "37195444",
@@ -1451,11 +1467,11 @@
       "popularityDelta": null
     },
     {
-      "id": "38924571",
-      "titleCn": "伪装者浓雾之下",
-      "titleKr": "웨이좡저농우즈샤",
-      "url": "https://movie.douban.com/subject/38924571/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936505442.jpg",
+      "id": "39034318",
+      "titleCn": "成化犁庭第二季：汪直扫穴",
+      "titleKr": "청화리팅디얼지：왕즈싸오쉐",
+      "url": "https://movie.douban.com/subject/39034318/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937381982.jpg",
       "genres": [
         "yeoksa"
       ],
@@ -1467,52 +1483,20 @@
       "popularityDelta": null
     },
     {
-      "id": "38931954",
-      "titleCn": "洪武苟长生第二季",
-      "titleKr": "홍우거우창성디얼지",
-      "url": "https://movie.douban.com/subject/38931954/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936605384.jpg",
+      "id": "33379740",
+      "titleCn": "人民的选择",
+      "titleKr": "런민더쉬안쩌",
+      "url": "https://movie.douban.com/subject/33379740/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928763923.jpg",
       "genres": [
         "yeoksa"
       ],
-      "popularityScore": null,
+      "popularityScore": 14,
       "rating": null,
-      "qualityRank": null,
-      "popularityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": null
-    },
-    {
-      "id": "37317465",
-      "titleCn": "马背摇篮",
-      "titleKr": "마베이야오란",
-      "url": "https://movie.douban.com/subject/37317465/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 11,
-      "rating": null,
-      "popularityRank": 50,
+      "popularityRank": 65,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "35937225",
-      "titleCn": "九个弹孔",
-      "titleKr": "주거단콩",
-      "url": "https://movie.douban.com/subject/35937225/",
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
-      "genres": [
-        "yeoksa"
-      ],
-      "popularityScore": 12,
-      "rating": null,
-      "popularityRank": 55,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "4922839",
@@ -1542,10 +1526,42 @@
       ],
       "popularityScore": 12,
       "rating": null,
-      "popularityRank": 56,
+      "popularityRank": 55,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 1
+    },
+    {
+      "id": "37317465",
+      "titleCn": "马背摇篮",
+      "titleKr": "마베이야오란",
+      "url": "https://movie.douban.com/subject/37317465/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2928758827.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 11,
+      "rating": null,
+      "popularityRank": 50,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
+    },
+    {
+      "id": "35937225",
+      "titleCn": "九个弹孔",
+      "titleKr": "주거단콩",
+      "url": "https://movie.douban.com/subject/35937225/",
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933860319.jpg",
+      "genres": [
+        "yeoksa"
+      ],
+      "popularityScore": 12,
+      "rating": null,
+      "popularityRank": 56,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": -1
     },
     {
       "id": "38563790",
@@ -1612,22 +1628,6 @@
       "popularityDelta": 0
     },
     {
-      "id": "39010151",
-      "titleCn": "护镖人之无敌镖人，开局护送灭世帝女第九季",
-      "titleKr": "후뱌오런즈우디뱌오런，카이쥐후쏭몌스디뉘디주지",
-      "url": "https://movie.douban.com/subject/39010151/",
-      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937005344.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 20,
-      "rating": null,
-      "popularityRank": 90,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
       "id": "39056275",
       "titleCn": "末法道士第一季",
       "titleKr": "모파다오스디이지",
@@ -1687,6 +1687,38 @@
       "popularityScore": 11,
       "rating": null,
       "popularityRank": 51,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "38928736",
+      "titleCn": "将军将我贬妻为妾，圣旨赐下后他慌了",
+      "titleKr": "장쥔장워볜치웨이체，성즈츠샤허우타황러",
+      "url": "https://movie.douban.com/subject/38928736/",
+      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2936545541.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 17,
+      "rating": null,
+      "popularityRank": 79,
+      "qualityRank": null,
+      "qualityDelta": null,
+      "popularityDelta": 0
+    },
+    {
+      "id": "39010151",
+      "titleCn": "护镖人之无敌镖人，开局护送灭世帝女第九季",
+      "titleKr": "후뱌오런즈우디뱌오런，카이쥐후쏭몌스디뉘디주지",
+      "url": "https://movie.douban.com/subject/39010151/",
+      "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2937005344.jpg",
+      "genres": [
+        "muhyeop"
+      ],
+      "popularityScore": 20,
+      "rating": null,
+      "popularityRank": 90,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": 0
@@ -1830,10 +1862,10 @@
       ],
       "popularityScore": 14,
       "rating": null,
-      "popularityRank": 65,
+      "popularityRank": 66,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": 0
+      "popularityDelta": -1
     },
     {
       "id": "38222827",
@@ -1862,23 +1894,7 @@
       ],
       "popularityScore": 16,
       "rating": null,
-      "popularityRank": 74,
-      "qualityRank": null,
-      "qualityDelta": null,
-      "popularityDelta": 0
-    },
-    {
-      "id": "38928736",
-      "titleCn": "将军将我贬妻为妾，圣旨赐下后他慌了",
-      "titleKr": "장쥔장워볜치웨이체，성즈츠샤허우타황러",
-      "url": "https://movie.douban.com/subject/38928736/",
-      "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2936545541.jpg",
-      "genres": [
-        "muhyeop"
-      ],
-      "popularityScore": 17,
-      "rating": null,
-      "popularityRank": 79,
+      "popularityRank": 75,
       "qualityRank": null,
       "qualityDelta": null,
       "popularityDelta": -1
@@ -1913,7 +1929,7 @@
       "popularityRank": 86,
       "qualityRank": null,
       "qualityDelta": null,
-      "popularityDelta": -1
+      "popularityDelta": 0
     }
   ]
 }
